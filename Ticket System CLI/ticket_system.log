@@ -1,0 +1,2170 @@
+Dec 11, 2024 7:29:46 PM TicketSystemLogger info
+INFO: 
+Configuration incomplete. Please configure the system first.
+Dec 11, 2024 7:30:48 PM TicketSystemLogger info
+INFO: 
+Configuration incomplete. Please configure the system first.
+Dec 11, 2024 7:40:02 PM TicketSystemLogger info
+INFO: Exiting the system. Application is stopping.
+Dec 11, 2024 7:40:10 PM TicketSystemLogger info
+INFO: Configuration loaded successfully from the 'system_config' table in the database.
+Dec 11, 2024 7:40:22 PM TicketSystemLogger info
+INFO: System started. Vendors and customers are now active.
+Dec 11, 2024 7:40:22 PM TicketSystemLogger info
+INFO: Vendor 1 added 3 ticket(s) for hello (Price: $50.00)
+Dec 11, 2024 7:40:22 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 3 | Total Tickets Sold: 0
+Dec 11, 2024 7:40:22 PM TicketSystemLogger info
+INFO: Vendor 2 added 3 ticket(s) for bye (Price: $80.00)
+Dec 11, 2024 7:40:22 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 6 | Total Tickets Added: 6 | Total Tickets Sold: 0
+Dec 11, 2024 7:40:22 PM TicketSystemLogger info
+INFO: Customer 1 purchased 2 ticket(s) for events: hello, hello | Total Price: $100.00
+Dec 11, 2024 7:40:22 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 4 | Total Tickets Added: 6 | Total Tickets Sold: 2
+Dec 11, 2024 7:40:22 PM TicketSystemLogger info
+INFO: Customer 2 purchased 2 ticket(s) for events: hello, bye | Total Price: $130.00
+Dec 11, 2024 7:40:22 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 6 | Total Tickets Sold: 4
+Dec 11, 2024 7:40:22 PM TicketSystemLogger info
+INFO: Customer 3 purchased 2 ticket(s) for events: bye, bye | Total Price: $160.00
+Dec 11, 2024 7:40:22 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 6 | Total Tickets Sold: 6
+Dec 11, 2024 7:40:22 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 7:40:32 PM TicketSystemLogger info
+INFO: Vendor 1 added 2 ticket(s) for hello (Price: $50.00)
+Dec 11, 2024 7:40:32 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 8 | Total Tickets Sold: 6
+Dec 11, 2024 7:40:32 PM TicketSystemLogger info
+INFO: Vendor 2 added 2 ticket(s) for bye (Price: $80.00)
+Dec 11, 2024 7:40:32 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 4 | Total Tickets Added: 10 | Total Tickets Sold: 6
+Dec 11, 2024 7:40:32 PM TicketSystemLogger info
+INFO: Customer 4 purchased 2 ticket(s) for events: hello, hello | Total Price: $100.00
+Dec 11, 2024 7:40:32 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 10 | Total Tickets Sold: 8
+Dec 11, 2024 7:40:32 PM TicketSystemLogger info
+INFO: Customer 9 purchased 2 ticket(s) for events: bye, bye | Total Price: $160.00
+Dec 11, 2024 7:40:32 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 10 | Total Tickets Sold: 10
+Dec 11, 2024 7:40:32 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 7:40:42 PM TicketSystemLogger info
+INFO: Vendor 2 added 2 ticket(s) for bye (Price: $80.00)
+Dec 11, 2024 7:40:42 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 12 | Total Tickets Sold: 10
+Dec 11, 2024 7:40:42 PM TicketSystemLogger info
+INFO: Vendor 1 added 2 ticket(s) for hello (Price: $50.00)
+Dec 11, 2024 7:40:42 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 4 | Total Tickets Added: 14 | Total Tickets Sold: 10
+Dec 11, 2024 7:40:42 PM TicketSystemLogger info
+INFO: Customer 13 purchased 2 ticket(s) for events: bye, bye | Total Price: $160.00
+Dec 11, 2024 7:40:42 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 14 | Total Tickets Sold: 12
+Dec 11, 2024 7:40:42 PM TicketSystemLogger info
+INFO: Customer 8 purchased 2 ticket(s) for events: hello, hello | Total Price: $100.00
+Dec 11, 2024 7:40:42 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 14 | Total Tickets Sold: 14
+Dec 11, 2024 7:40:42 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 7:40:45 PM TicketSystemLogger info
+INFO: System Stopped - Total Statistics:
+Dec 11, 2024 7:40:45 PM TicketSystemLogger info
+INFO: Total Tickets Added to Pool: 14
+Dec 11, 2024 7:40:45 PM TicketSystemLogger info
+INFO: Total Tickets Sold: 14
+Dec 11, 2024 7:40:45 PM TicketSystemLogger info
+INFO: System stopped. All operations halted.
+Dec 11, 2024 7:40:54 PM TicketSystemLogger info
+INFO: Ticket handling system has been reset.
+Dec 11, 2024 7:40:57 PM TicketSystemLogger info
+INFO: Vendor 1 added 3 ticket(s) for hello (Price: $50.00)
+Dec 11, 2024 7:40:57 PM TicketSystemLogger info
+INFO: System started. Vendors and customers are now active.
+Dec 11, 2024 7:40:57 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 3 | Total Tickets Sold: 0
+Dec 11, 2024 7:40:57 PM TicketSystemLogger info
+INFO: Vendor 2 added 2 ticket(s) for bye (Price: $80.00)
+Dec 11, 2024 7:40:57 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 5 | Total Tickets Added: 5 | Total Tickets Sold: 0
+Dec 11, 2024 7:40:57 PM TicketSystemLogger info
+INFO: Customer 1 purchased 2 ticket(s) for events: hello, hello | Total Price: $100.00
+Dec 11, 2024 7:40:57 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 5 | Total Tickets Sold: 2
+Dec 11, 2024 7:40:57 PM TicketSystemLogger info
+INFO: Customer 2 purchased 2 ticket(s) for events: hello, bye | Total Price: $130.00
+Dec 11, 2024 7:40:57 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 5 | Total Tickets Sold: 4
+Dec 11, 2024 7:40:57 PM TicketSystemLogger info
+INFO: Customer 3 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 7:40:57 PM TicketSystemLogger info
+INFO: Customer 3 purchased 1 ticket(s) for events: bye | Total Price: $80.00
+Dec 11, 2024 7:40:57 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 5 | Total Tickets Sold: 5
+Dec 11, 2024 7:40:57 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 7:41:07 PM TicketSystemLogger info
+INFO: Vendor 1 added 3 ticket(s) for hello (Price: $50.00)
+Dec 11, 2024 7:41:07 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 8 | Total Tickets Sold: 5
+Dec 11, 2024 7:41:07 PM TicketSystemLogger info
+INFO: Vendor 2 added 2 ticket(s) for bye (Price: $80.00)
+Dec 11, 2024 7:41:07 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 5 | Total Tickets Added: 10 | Total Tickets Sold: 5
+Dec 11, 2024 7:41:07 PM TicketSystemLogger info
+INFO: Customer 6 purchased 2 ticket(s) for events: hello, hello | Total Price: $100.00
+Dec 11, 2024 7:41:07 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 10 | Total Tickets Sold: 7
+Dec 11, 2024 7:41:07 PM TicketSystemLogger info
+INFO: Customer 5 purchased 2 ticket(s) for events: hello, bye | Total Price: $130.00
+Dec 11, 2024 7:41:07 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 10 | Total Tickets Sold: 9
+Dec 11, 2024 7:41:07 PM TicketSystemLogger info
+INFO: Customer 7 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 7:41:07 PM TicketSystemLogger info
+INFO: Customer 7 purchased 1 ticket(s) for events: bye | Total Price: $80.00
+Dec 11, 2024 7:41:07 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 10 | Total Tickets Sold: 10
+Dec 11, 2024 7:41:07 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 7:41:17 PM TicketSystemLogger info
+INFO: Vendor 2 added 3 ticket(s) for bye (Price: $80.00)
+Dec 11, 2024 7:41:17 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 13 | Total Tickets Sold: 10
+Dec 11, 2024 7:41:17 PM TicketSystemLogger info
+INFO: Vendor 1 added 3 ticket(s) for hello (Price: $50.00)
+Dec 11, 2024 7:41:17 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 6 | Total Tickets Added: 16 | Total Tickets Sold: 10
+Dec 11, 2024 7:41:17 PM TicketSystemLogger info
+INFO: Customer 15 purchased 2 ticket(s) for events: bye, bye | Total Price: $160.00
+Dec 11, 2024 7:41:17 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 4 | Total Tickets Added: 16 | Total Tickets Sold: 12
+Dec 11, 2024 7:41:17 PM TicketSystemLogger info
+INFO: Customer 11 purchased 2 ticket(s) for events: bye, hello | Total Price: $130.00
+Dec 11, 2024 7:41:17 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 16 | Total Tickets Sold: 14
+Dec 11, 2024 7:41:17 PM TicketSystemLogger info
+INFO: Customer 12 purchased 2 ticket(s) for events: hello, hello | Total Price: $100.00
+Dec 11, 2024 7:41:17 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 16 | Total Tickets Sold: 16
+Dec 11, 2024 7:41:17 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 7:41:27 PM TicketSystemLogger info
+INFO: Vendor 1 added 3 ticket(s) for hello (Price: $50.00)
+Dec 11, 2024 7:41:27 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 19 | Total Tickets Sold: 16
+Dec 11, 2024 7:41:27 PM TicketSystemLogger info
+INFO: Customer 16 purchased 2 ticket(s) for events: hello, hello | Total Price: $100.00
+Dec 11, 2024 7:41:27 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 19 | Total Tickets Sold: 18
+Dec 11, 2024 7:41:27 PM TicketSystemLogger info
+INFO: Vendor 2 added 2 ticket(s) for bye (Price: $80.00)
+Dec 11, 2024 7:41:27 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 21 | Total Tickets Sold: 18
+Dec 11, 2024 7:41:27 PM TicketSystemLogger info
+INFO: Customer 17 purchased 2 ticket(s) for events: hello, bye | Total Price: $130.00
+Dec 11, 2024 7:41:27 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 21 | Total Tickets Sold: 20
+Dec 11, 2024 7:41:27 PM TicketSystemLogger info
+INFO: Customer 18 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 7:41:27 PM TicketSystemLogger info
+INFO: Customer 18 purchased 1 ticket(s) for events: bye | Total Price: $80.00
+Dec 11, 2024 7:41:27 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 21 | Total Tickets Sold: 21
+Dec 11, 2024 7:41:27 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 7:41:37 PM TicketSystemLogger info
+INFO: Vendor 1 added 3 ticket(s) for hello (Price: $50.00)
+Dec 11, 2024 7:41:37 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 24 | Total Tickets Sold: 21
+Dec 11, 2024 7:41:37 PM TicketSystemLogger info
+INFO: Customer 2 purchased 2 ticket(s) for events: hello, hello | Total Price: $100.00
+Dec 11, 2024 7:41:37 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 24 | Total Tickets Sold: 23
+Dec 11, 2024 7:41:37 PM TicketSystemLogger info
+INFO: Customer 3 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 7:41:37 PM TicketSystemLogger info
+INFO: Customer 3 purchased 1 ticket(s) for events: hello | Total Price: $50.00
+Dec 11, 2024 7:41:37 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 24 | Total Tickets Sold: 24
+Dec 11, 2024 7:41:37 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 7:41:37 PM TicketSystemLogger info
+INFO: Vendor 2 added 2 ticket(s) for bye (Price: $80.00)
+Dec 11, 2024 7:41:37 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 26 | Total Tickets Sold: 24
+Dec 11, 2024 7:41:37 PM TicketSystemLogger info
+INFO: Customer 4 purchased 2 ticket(s) for events: bye, bye | Total Price: $160.00
+Dec 11, 2024 7:41:37 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 26 | Total Tickets Sold: 26
+Dec 11, 2024 7:41:37 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 7:41:47 PM TicketSystemLogger info
+INFO: Vendor 1 added 2 ticket(s) for hello (Price: $50.00)
+Dec 11, 2024 7:41:47 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 28 | Total Tickets Sold: 26
+Dec 11, 2024 7:41:47 PM TicketSystemLogger info
+INFO: Customer 5 purchased 2 ticket(s) for events: hello, hello | Total Price: $100.00
+Dec 11, 2024 7:41:47 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 28 | Total Tickets Sold: 28
+Dec 11, 2024 7:41:47 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 7:41:47 PM TicketSystemLogger info
+INFO: Vendor 2 added 3 ticket(s) for bye (Price: $80.00)
+Dec 11, 2024 7:41:47 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 31 | Total Tickets Sold: 28
+Dec 11, 2024 7:41:47 PM TicketSystemLogger info
+INFO: Customer 14 purchased 2 ticket(s) for events: bye, bye | Total Price: $160.00
+Dec 11, 2024 7:41:47 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 31 | Total Tickets Sold: 30
+Dec 11, 2024 7:41:47 PM TicketSystemLogger info
+INFO: Customer 13 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 7:41:47 PM TicketSystemLogger info
+INFO: Customer 13 purchased 1 ticket(s) for events: bye | Total Price: $80.00
+Dec 11, 2024 7:41:47 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 31 | Total Tickets Sold: 31
+Dec 11, 2024 7:41:47 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 7:41:57 PM TicketSystemLogger info
+INFO: Vendor 1 added 3 ticket(s) for hello (Price: $50.00)
+Dec 11, 2024 7:41:57 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 34 | Total Tickets Sold: 31
+Dec 11, 2024 7:41:57 PM TicketSystemLogger info
+INFO: Customer 11 purchased 2 ticket(s) for events: hello, hello | Total Price: $100.00
+Dec 11, 2024 7:41:57 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 34 | Total Tickets Sold: 33
+Dec 11, 2024 7:41:57 PM TicketSystemLogger info
+INFO: Customer 12 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 7:41:57 PM TicketSystemLogger info
+INFO: Customer 12 purchased 1 ticket(s) for events: hello | Total Price: $50.00
+Dec 11, 2024 7:41:57 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 34 | Total Tickets Sold: 34
+Dec 11, 2024 7:41:57 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 7:41:57 PM TicketSystemLogger info
+INFO: Vendor 2 added 3 ticket(s) for bye (Price: $80.00)
+Dec 11, 2024 7:41:57 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 37 | Total Tickets Sold: 34
+Dec 11, 2024 7:41:57 PM TicketSystemLogger info
+INFO: Customer 9 purchased 2 ticket(s) for events: bye, bye | Total Price: $160.00
+Dec 11, 2024 7:41:57 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 37 | Total Tickets Sold: 36
+Dec 11, 2024 7:41:57 PM TicketSystemLogger info
+INFO: Customer 8 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 7:41:57 PM TicketSystemLogger info
+INFO: Customer 8 purchased 1 ticket(s) for events: bye | Total Price: $80.00
+Dec 11, 2024 7:41:57 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 37 | Total Tickets Sold: 37
+Dec 11, 2024 7:41:57 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 7:42:07 PM TicketSystemLogger info
+INFO: Vendor 1 added 2 ticket(s) for hello (Price: $50.00)
+Dec 11, 2024 7:42:07 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 39 | Total Tickets Sold: 37
+Dec 11, 2024 7:42:07 PM TicketSystemLogger info
+INFO: Customer 17 purchased 2 ticket(s) for events: hello, hello | Total Price: $100.00
+Dec 11, 2024 7:42:07 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 39 | Total Tickets Sold: 39
+Dec 11, 2024 7:42:07 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 7:42:07 PM TicketSystemLogger info
+INFO: Vendor 2 added 1 ticket(s) for bye (Price: $80.00)
+Dec 11, 2024 7:42:07 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 40 | Total Tickets Sold: 39
+Dec 11, 2024 7:42:07 PM TicketSystemLogger info
+INFO: Customer 19 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 7:42:07 PM TicketSystemLogger info
+INFO: Customer 19 purchased 1 ticket(s) for events: bye | Total Price: $80.00
+Dec 11, 2024 7:42:07 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 40 | Total Tickets Sold: 40
+Dec 11, 2024 7:42:07 PM TicketSystemLogger info
+INFO: All tickets have been sold, and the ticket limit has been reached. Stopping the system...
+Dec 11, 2024 7:42:07 PM TicketSystemLogger info
+INFO: System Stopped - Total Statistics:
+Dec 11, 2024 7:42:07 PM TicketSystemLogger info
+INFO: Total Tickets Added to Pool: 40
+Dec 11, 2024 7:42:07 PM TicketSystemLogger info
+INFO: Total Tickets Sold: 40
+Dec 11, 2024 7:42:07 PM TicketSystemLogger info
+INFO: System stopped. All operations halted.
+Dec 11, 2024 7:42:42 PM TicketSystemLogger info
+INFO: Ticket handling system has been reset and is ready to start again.
+
+Dec 11, 2024 7:42:48 PM TicketSystemLogger info
+INFO: Vendor 1 added 2 ticket(s) for hello (Price: $50.00)
+Dec 11, 2024 7:42:48 PM TicketSystemLogger info
+INFO: System started. Vendors and customers are now active.
+Dec 11, 2024 7:42:48 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 2 | Total Tickets Sold: 0
+Dec 11, 2024 7:42:48 PM TicketSystemLogger info
+INFO: Vendor 2 added 2 ticket(s) for bye (Price: $80.00)
+Dec 11, 2024 7:42:48 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 4 | Total Tickets Added: 4 | Total Tickets Sold: 0
+Dec 11, 2024 7:42:48 PM TicketSystemLogger info
+INFO: Customer 1 purchased 2 ticket(s) for events: hello, hello | Total Price: $100.00
+Dec 11, 2024 7:42:48 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 4 | Total Tickets Sold: 2
+Dec 11, 2024 7:42:48 PM TicketSystemLogger info
+INFO: Customer 3 purchased 2 ticket(s) for events: bye, bye | Total Price: $160.00
+Dec 11, 2024 7:42:48 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 4 | Total Tickets Sold: 4
+Dec 11, 2024 7:42:48 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 7:42:58 PM TicketSystemLogger info
+INFO: Vendor 1 added 3 ticket(s) for hello (Price: $50.00)
+Dec 11, 2024 7:42:58 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 7 | Total Tickets Sold: 4
+Dec 11, 2024 7:42:58 PM TicketSystemLogger info
+INFO: Customer 4 purchased 2 ticket(s) for events: hello, hello | Total Price: $100.00
+Dec 11, 2024 7:42:58 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 7 | Total Tickets Sold: 6
+Dec 11, 2024 7:42:58 PM TicketSystemLogger info
+INFO: Customer 5 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 7:42:58 PM TicketSystemLogger info
+INFO: Customer 5 purchased 1 ticket(s) for events: hello | Total Price: $50.00
+Dec 11, 2024 7:42:58 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 7 | Total Tickets Sold: 7
+Dec 11, 2024 7:42:58 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 7:42:58 PM TicketSystemLogger info
+INFO: Vendor 2 added 2 ticket(s) for bye (Price: $80.00)
+Dec 11, 2024 7:42:58 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 9 | Total Tickets Sold: 7
+Dec 11, 2024 7:42:58 PM TicketSystemLogger info
+INFO: Customer 7 purchased 2 ticket(s) for events: bye, bye | Total Price: $160.00
+Dec 11, 2024 7:42:58 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 9 | Total Tickets Sold: 9
+Dec 11, 2024 7:42:58 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 7:43:08 PM TicketSystemLogger info
+INFO: Vendor 1 added 3 ticket(s) for hello (Price: $50.00)
+Dec 11, 2024 7:43:08 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 12 | Total Tickets Sold: 9
+Dec 11, 2024 7:43:08 PM TicketSystemLogger info
+INFO: Customer 9 purchased 2 ticket(s) for events: hello, hello | Total Price: $100.00
+Dec 11, 2024 7:43:08 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 12 | Total Tickets Sold: 11
+Dec 11, 2024 7:43:08 PM TicketSystemLogger info
+INFO: Customer 10 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 7:43:08 PM TicketSystemLogger info
+INFO: Customer 10 purchased 1 ticket(s) for events: hello | Total Price: $50.00
+Dec 11, 2024 7:43:08 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 12 | Total Tickets Sold: 12
+Dec 11, 2024 7:43:08 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 7:43:08 PM TicketSystemLogger info
+INFO: Vendor 2 added 3 ticket(s) for bye (Price: $80.00)
+Dec 11, 2024 7:43:08 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 15 | Total Tickets Sold: 12
+Dec 11, 2024 7:43:09 PM TicketSystemLogger info
+INFO: Customer 19 purchased 2 ticket(s) for events: bye, bye | Total Price: $160.00
+Dec 11, 2024 7:43:09 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 15 | Total Tickets Sold: 14
+Dec 11, 2024 7:43:09 PM TicketSystemLogger info
+INFO: Customer 13 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 7:43:09 PM TicketSystemLogger info
+INFO: Customer 13 purchased 1 ticket(s) for events: bye | Total Price: $80.00
+Dec 11, 2024 7:43:09 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 15 | Total Tickets Sold: 15
+Dec 11, 2024 7:43:09 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 7:43:18 PM TicketSystemLogger info
+INFO: Vendor 1 added 3 ticket(s) for hello (Price: $50.00)
+Dec 11, 2024 7:43:18 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 18 | Total Tickets Sold: 15
+Dec 11, 2024 7:43:18 PM TicketSystemLogger info
+INFO: Customer 15 purchased 2 ticket(s) for events: hello, hello | Total Price: $100.00
+Dec 11, 2024 7:43:18 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 18 | Total Tickets Sold: 17
+Dec 11, 2024 7:43:18 PM TicketSystemLogger info
+INFO: Customer 16 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 7:43:18 PM TicketSystemLogger info
+INFO: Customer 16 purchased 1 ticket(s) for events: hello | Total Price: $50.00
+Dec 11, 2024 7:43:18 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 18 | Total Tickets Sold: 18
+Dec 11, 2024 7:43:18 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 7:43:18 PM TicketSystemLogger info
+INFO: Vendor 2 added 3 ticket(s) for bye (Price: $80.00)
+Dec 11, 2024 7:43:18 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 21 | Total Tickets Sold: 18
+Dec 11, 2024 7:43:19 PM TicketSystemLogger info
+INFO: Customer 18 purchased 2 ticket(s) for events: bye, bye | Total Price: $160.00
+Dec 11, 2024 7:43:19 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 21 | Total Tickets Sold: 20
+Dec 11, 2024 7:43:19 PM TicketSystemLogger info
+INFO: Customer 12 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 7:43:19 PM TicketSystemLogger info
+INFO: Customer 12 purchased 1 ticket(s) for events: bye | Total Price: $80.00
+Dec 11, 2024 7:43:19 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 21 | Total Tickets Sold: 21
+Dec 11, 2024 7:43:19 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 7:43:28 PM TicketSystemLogger info
+INFO: Vendor 1 added 2 ticket(s) for hello (Price: $50.00)
+Dec 11, 2024 7:43:28 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 23 | Total Tickets Sold: 21
+Dec 11, 2024 7:43:28 PM TicketSystemLogger info
+INFO: Customer 3 purchased 2 ticket(s) for events: hello, hello | Total Price: $100.00
+Dec 11, 2024 7:43:28 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 23 | Total Tickets Sold: 23
+Dec 11, 2024 7:43:28 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 7:43:29 PM TicketSystemLogger info
+INFO: Vendor 2 added 2 ticket(s) for bye (Price: $80.00)
+Dec 11, 2024 7:43:29 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 25 | Total Tickets Sold: 23
+Dec 11, 2024 7:43:29 PM TicketSystemLogger info
+INFO: Customer 4 purchased 2 ticket(s) for events: bye, bye | Total Price: $160.00
+Dec 11, 2024 7:43:29 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 25 | Total Tickets Sold: 25
+Dec 11, 2024 7:43:29 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 7:43:38 PM TicketSystemLogger info
+INFO: Vendor 1 added 3 ticket(s) for hello (Price: $50.00)
+Dec 11, 2024 7:43:38 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 28 | Total Tickets Sold: 25
+Dec 11, 2024 7:43:38 PM TicketSystemLogger info
+INFO: Customer 5 purchased 2 ticket(s) for events: hello, hello | Total Price: $100.00
+Dec 11, 2024 7:43:38 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 28 | Total Tickets Sold: 27
+Dec 11, 2024 7:43:38 PM TicketSystemLogger info
+INFO: Customer 6 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 7:43:38 PM TicketSystemLogger info
+INFO: Customer 6 purchased 1 ticket(s) for events: hello | Total Price: $50.00
+Dec 11, 2024 7:43:38 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 28 | Total Tickets Sold: 28
+Dec 11, 2024 7:43:38 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 7:43:39 PM TicketSystemLogger info
+INFO: Vendor 2 added 3 ticket(s) for bye (Price: $80.00)
+Dec 11, 2024 7:43:39 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 31 | Total Tickets Sold: 28
+Dec 11, 2024 7:43:39 PM TicketSystemLogger info
+INFO: Customer 8 purchased 2 ticket(s) for events: bye, bye | Total Price: $160.00
+Dec 11, 2024 7:43:39 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 31 | Total Tickets Sold: 30
+Dec 11, 2024 7:43:39 PM TicketSystemLogger info
+INFO: Customer 9 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 7:43:39 PM TicketSystemLogger info
+INFO: Customer 9 purchased 1 ticket(s) for events: bye | Total Price: $80.00
+Dec 11, 2024 7:43:39 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 31 | Total Tickets Sold: 31
+Dec 11, 2024 7:43:39 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 7:43:48 PM TicketSystemLogger info
+INFO: Vendor 1 added 2 ticket(s) for hello (Price: $50.00)
+Dec 11, 2024 7:43:48 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 33 | Total Tickets Sold: 31
+Dec 11, 2024 7:43:48 PM TicketSystemLogger info
+INFO: Customer 11 purchased 2 ticket(s) for events: hello, hello | Total Price: $100.00
+Dec 11, 2024 7:43:48 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 33 | Total Tickets Sold: 33
+Dec 11, 2024 7:43:48 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 7:43:49 PM TicketSystemLogger info
+INFO: Vendor 2 added 3 ticket(s) for bye (Price: $80.00)
+Dec 11, 2024 7:43:49 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 36 | Total Tickets Sold: 33
+Dec 11, 2024 7:43:49 PM TicketSystemLogger info
+INFO: Customer 13 purchased 2 ticket(s) for events: bye, bye | Total Price: $160.00
+Dec 11, 2024 7:43:49 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 36 | Total Tickets Sold: 35
+Dec 11, 2024 7:43:49 PM TicketSystemLogger info
+INFO: Customer 14 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 7:43:49 PM TicketSystemLogger info
+INFO: Customer 14 purchased 1 ticket(s) for events: bye | Total Price: $80.00
+Dec 11, 2024 7:43:49 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 36 | Total Tickets Sold: 36
+Dec 11, 2024 7:43:49 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 7:43:58 PM TicketSystemLogger info
+INFO: Vendor 1 added 2 ticket(s) for hello (Price: $50.00)
+Dec 11, 2024 7:43:58 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 38 | Total Tickets Sold: 36
+Dec 11, 2024 7:43:58 PM TicketSystemLogger info
+INFO: Customer 16 purchased 2 ticket(s) for events: hello, hello | Total Price: $100.00
+Dec 11, 2024 7:43:58 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 38 | Total Tickets Sold: 38
+Dec 11, 2024 7:43:58 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 7:43:59 PM TicketSystemLogger info
+INFO: Vendor 2 added 2 ticket(s) for bye (Price: $80.00)
+Dec 11, 2024 7:43:59 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 40 | Total Tickets Sold: 38
+Dec 11, 2024 7:43:59 PM TicketSystemLogger info
+INFO: Customer 18 purchased 2 ticket(s) for events: bye, bye | Total Price: $160.00
+Dec 11, 2024 7:43:59 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 40 | Total Tickets Sold: 40
+Dec 11, 2024 7:43:59 PM TicketSystemLogger info
+INFO: All tickets have been sold, and the ticket limit has been reached. Stopping the system...
+Dec 11, 2024 7:43:59 PM TicketSystemLogger info
+INFO: System Stopped - Total Statistics:
+Dec 11, 2024 7:43:59 PM TicketSystemLogger info
+INFO: Total Tickets Added to Pool: 40
+Dec 11, 2024 7:43:59 PM TicketSystemLogger info
+INFO: Total Tickets Sold: 40
+Dec 11, 2024 7:43:59 PM TicketSystemLogger info
+INFO: System stopped. All operations halted.
+Dec 11, 2024 7:49:41 PM TicketSystemLogger info
+INFO: Configuration loaded successfully from the 'system_config' table in the database.
+Dec 11, 2024 7:59:58 PM TicketSystemLogger info
+INFO: Configuration loaded successfully from the 'system_config' table in the database.
+Dec 11, 2024 8:00:04 PM TicketSystemLogger info
+INFO: System started. Vendors and customers are now active.
+Dec 11, 2024 8:00:04 PM TicketSystemLogger info
+INFO: Vendor 2 added 3 ticket(s) for bye (Price: $80.00)
+Dec 11, 2024 8:00:04 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 3 | Total Tickets Sold: 0
+Dec 11, 2024 8:00:04 PM TicketSystemLogger info
+INFO: Vendor 1 added 2 ticket(s) for hello (Price: $50.00)
+Dec 11, 2024 8:00:04 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 5 | Total Tickets Added: 5 | Total Tickets Sold: 0
+Dec 11, 2024 8:00:04 PM TicketSystemLogger info
+INFO: Customer 3 purchased 2 ticket(s) for events: bye, bye | Total Price: $160.00
+Dec 11, 2024 8:00:04 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 5 | Total Tickets Sold: 2
+Dec 11, 2024 8:00:04 PM TicketSystemLogger info
+INFO: Customer 1 purchased 2 ticket(s) for events: bye, hello | Total Price: $130.00
+Dec 11, 2024 8:00:04 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 5 | Total Tickets Sold: 4
+Dec 11, 2024 8:00:04 PM TicketSystemLogger info
+INFO: Customer 5 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 8:00:04 PM TicketSystemLogger info
+INFO: Customer 5 purchased 1 ticket(s) for events: hello | Total Price: $50.00
+Dec 11, 2024 8:00:04 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 5 | Total Tickets Sold: 5
+Dec 11, 2024 8:00:04 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:00:06 PM TicketSystemLogger info
+INFO: System Stopped - Total Statistics:
+Dec 11, 2024 8:00:06 PM TicketSystemLogger info
+INFO: Total Tickets Added to Pool: 5
+Dec 11, 2024 8:00:06 PM TicketSystemLogger info
+INFO: Total Tickets Sold: 5
+Dec 11, 2024 8:00:06 PM TicketSystemLogger info
+INFO: System stopped. All operations halted.
+Dec 11, 2024 8:00:11 PM TicketSystemLogger info
+INFO: Configuration loaded successfully from the 'system_config' table in the database.
+Dec 11, 2024 8:00:56 PM TicketSystemLogger info
+INFO: Vendor 1 added 3 ticket(s) for hello (Price: $50.00)
+Dec 11, 2024 8:00:56 PM TicketSystemLogger info
+INFO: System started. Vendors and customers are now active.
+Dec 11, 2024 8:00:56 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 8 | Total Tickets Sold: 5
+Dec 11, 2024 8:00:56 PM TicketSystemLogger info
+INFO: Vendor 2 added 3 ticket(s) for bye (Price: $80.00)
+Dec 11, 2024 8:00:56 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 6 | Total Tickets Added: 11 | Total Tickets Sold: 5
+Dec 11, 2024 8:00:56 PM TicketSystemLogger info
+INFO: Customer 2 purchased 2 ticket(s) for events: hello, hello | Total Price: $100.00
+Dec 11, 2024 8:00:56 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 4 | Total Tickets Added: 11 | Total Tickets Sold: 7
+Dec 11, 2024 8:00:56 PM TicketSystemLogger info
+INFO: Customer 6 purchased 2 ticket(s) for events: hello, bye | Total Price: $130.00
+Dec 11, 2024 8:00:56 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 11 | Total Tickets Sold: 9
+Dec 11, 2024 8:00:56 PM TicketSystemLogger info
+INFO: Customer 3 purchased 2 ticket(s) for events: bye, bye | Total Price: $160.00
+Dec 11, 2024 8:00:56 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 11 | Total Tickets Sold: 11
+Dec 11, 2024 8:00:56 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:01:06 PM TicketSystemLogger info
+INFO: Vendor 1 added 3 ticket(s) for hello (Price: $50.00)
+Dec 11, 2024 8:01:06 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 14 | Total Tickets Sold: 11
+Dec 11, 2024 8:01:06 PM TicketSystemLogger info
+INFO: Customer 7 purchased 2 ticket(s) for events: hello, hello | Total Price: $100.00
+Dec 11, 2024 8:01:06 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 14 | Total Tickets Sold: 13
+Dec 11, 2024 8:01:06 PM TicketSystemLogger info
+INFO: Customer 8 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 8:01:06 PM TicketSystemLogger info
+INFO: Customer 8 purchased 1 ticket(s) for events: hello | Total Price: $50.00
+Dec 11, 2024 8:01:06 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 14 | Total Tickets Sold: 14
+Dec 11, 2024 8:01:06 PM TicketSystemLogger info
+INFO: Vendor 2 added 3 ticket(s) for bye (Price: $80.00)
+Dec 11, 2024 8:01:06 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 17 | Total Tickets Sold: 14
+Dec 11, 2024 8:01:06 PM TicketSystemLogger info
+INFO: Customer 9 purchased 2 ticket(s) for events: bye, bye | Total Price: $160.00
+Dec 11, 2024 8:01:06 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 17 | Total Tickets Sold: 16
+Dec 11, 2024 8:01:06 PM TicketSystemLogger info
+INFO: Customer 10 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 8:01:06 PM TicketSystemLogger info
+INFO: Customer 10 purchased 1 ticket(s) for events: bye | Total Price: $80.00
+Dec 11, 2024 8:01:06 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 17 | Total Tickets Sold: 17
+Dec 11, 2024 8:01:06 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:01:07 PM TicketSystemLogger info
+INFO: System Stopped - Total Statistics:
+Dec 11, 2024 8:01:07 PM TicketSystemLogger info
+INFO: Total Tickets Added to Pool: 17
+Dec 11, 2024 8:01:07 PM TicketSystemLogger info
+INFO: Total Tickets Sold: 17
+Dec 11, 2024 8:01:07 PM TicketSystemLogger info
+INFO: System stopped. All operations halted.
+Dec 11, 2024 8:01:09 PM TicketSystemLogger info
+INFO: Ticket handling system has been reset.
+Dec 11, 2024 8:01:12 PM TicketSystemLogger info
+INFO: Configuration loaded successfully from the 'system_config' table in the database.
+Dec 11, 2024 8:04:41 PM TicketSystemLogger info
+INFO: Configuration loaded successfully from the 'system_config' table in the database.
+Dec 11, 2024 8:07:51 PM TicketSystemLogger info
+INFO: No existing configuration found. Let's configure the system...
+Dec 11, 2024 8:20:41 PM TicketSystemLogger info
+INFO: System Configured Successfully - Configuration Details: Total Tickets: 60, Max Ticket Capacity: 60, Ticket Release Rate: 3, Customer Retrieval Rate: 2
+Dec 11, 2024 8:20:42 PM TicketSystemLogger info
+INFO: Event Configuration:
+Dec 11, 2024 8:20:42 PM TicketSystemLogger info
+INFO: Event: run | Ticket Price: $90.00
+Dec 11, 2024 8:20:42 PM TicketSystemLogger info
+INFO: Event: bun | Ticket Price: $100.00
+Dec 11, 2024 8:20:42 PM TicketSystemLogger info
+INFO: Event: hello | Ticket Price: $95.00
+Dec 11, 2024 8:20:42 PM TicketSystemLogger info
+INFO: Event: dance | Ticket Price: $50.00
+Dec 11, 2024 8:23:25 PM TicketSystemLogger info
+INFO: Configuration loaded successfully from the 'system_config' table in the database.
+Dec 11, 2024 8:25:03 PM TicketSystemLogger info
+INFO: Configuration loaded successfully from the 'system_config' table in the database.
+Dec 11, 2024 8:25:48 PM TicketSystemLogger info
+INFO: Configuration loaded successfully from the 'system_config' table in the database.
+Dec 11, 2024 8:26:00 PM TicketSystemLogger info
+INFO: System started. Vendors and customers are now active.
+Dec 11, 2024 8:26:00 PM TicketSystemLogger info
+INFO: Vendor 1 added 2 ticket(s) for run (Price: $90.00)
+Dec 11, 2024 8:26:00 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 2 | Total Tickets Sold: 0
+Dec 11, 2024 8:26:00 PM TicketSystemLogger info
+INFO: Vendor 2 added 2 ticket(s) for bun (Price: $100.00)
+Dec 11, 2024 8:26:00 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 4 | Total Tickets Added: 4 | Total Tickets Sold: 0
+Dec 11, 2024 8:26:00 PM TicketSystemLogger info
+INFO: Vendor 4 added 3 ticket(s) for dance (Price: $50.00)
+Dec 11, 2024 8:26:00 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 7 | Total Tickets Added: 7 | Total Tickets Sold: 0
+Dec 11, 2024 8:26:00 PM TicketSystemLogger info
+INFO: Vendor 3 added 3 ticket(s) for hello (Price: $95.00)
+Dec 11, 2024 8:26:00 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 10 | Total Tickets Added: 10 | Total Tickets Sold: 0
+Dec 11, 2024 8:26:00 PM TicketSystemLogger info
+INFO: Customer 1 purchased 2 ticket(s) for events: run, run | Total Price: $180.00
+Dec 11, 2024 8:26:00 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 8 | Total Tickets Added: 10 | Total Tickets Sold: 2
+Dec 11, 2024 8:26:00 PM TicketSystemLogger info
+INFO: Customer 2 purchased 2 ticket(s) for events: bun, bun | Total Price: $200.00
+Dec 11, 2024 8:26:00 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 6 | Total Tickets Added: 10 | Total Tickets Sold: 4
+Dec 11, 2024 8:26:00 PM TicketSystemLogger info
+INFO: Customer 4 purchased 2 ticket(s) for events: dance, dance | Total Price: $100.00
+Dec 11, 2024 8:26:00 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 4 | Total Tickets Added: 10 | Total Tickets Sold: 6
+Dec 11, 2024 8:26:00 PM TicketSystemLogger info
+INFO: Customer 5 purchased 2 ticket(s) for events: dance, hello | Total Price: $145.00
+Dec 11, 2024 8:26:00 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 10 | Total Tickets Sold: 8
+Dec 11, 2024 8:26:00 PM TicketSystemLogger info
+INFO: Customer 3 purchased 2 ticket(s) for events: hello, hello | Total Price: $190.00
+Dec 11, 2024 8:26:00 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 10 | Total Tickets Sold: 10
+Dec 11, 2024 8:26:00 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:26:10 PM TicketSystemLogger info
+INFO: Vendor 3 added 3 ticket(s) for hello (Price: $95.00)
+Dec 11, 2024 8:26:10 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 13 | Total Tickets Sold: 10
+Dec 11, 2024 8:26:10 PM TicketSystemLogger info
+INFO: Vendor 1 added 3 ticket(s) for run (Price: $90.00)
+Dec 11, 2024 8:26:10 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 6 | Total Tickets Added: 16 | Total Tickets Sold: 10
+Dec 11, 2024 8:26:10 PM TicketSystemLogger info
+INFO: Vendor 2 added 2 ticket(s) for bun (Price: $100.00)
+Dec 11, 2024 8:26:10 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 8 | Total Tickets Added: 18 | Total Tickets Sold: 10
+Dec 11, 2024 8:26:10 PM TicketSystemLogger info
+INFO: Customer 10 purchased 2 ticket(s) for events: hello, hello | Total Price: $190.00
+Dec 11, 2024 8:26:10 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 6 | Total Tickets Added: 18 | Total Tickets Sold: 12
+Dec 11, 2024 8:26:10 PM TicketSystemLogger info
+INFO: Customer 11 purchased 2 ticket(s) for events: hello, run | Total Price: $185.00
+Dec 11, 2024 8:26:10 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 4 | Total Tickets Added: 18 | Total Tickets Sold: 14
+Dec 11, 2024 8:26:10 PM TicketSystemLogger info
+INFO: Customer 7 purchased 2 ticket(s) for events: run, run | Total Price: $180.00
+Dec 11, 2024 8:26:10 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 18 | Total Tickets Sold: 16
+Dec 11, 2024 8:26:10 PM TicketSystemLogger info
+INFO: Vendor 4 added 3 ticket(s) for dance (Price: $50.00)
+Dec 11, 2024 8:26:10 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 5 | Total Tickets Added: 21 | Total Tickets Sold: 16
+Dec 11, 2024 8:26:10 PM TicketSystemLogger info
+INFO: Customer 6 purchased 2 ticket(s) for events: bun, bun | Total Price: $200.00
+Dec 11, 2024 8:26:10 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 21 | Total Tickets Sold: 18
+Dec 11, 2024 8:26:10 PM TicketSystemLogger info
+INFO: Customer 18 purchased 2 ticket(s) for events: dance, dance | Total Price: $100.00
+Dec 11, 2024 8:26:10 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 21 | Total Tickets Sold: 20
+Dec 11, 2024 8:26:10 PM TicketSystemLogger info
+INFO: Customer 15 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 8:26:10 PM TicketSystemLogger info
+INFO: Customer 15 purchased 1 ticket(s) for events: dance | Total Price: $50.00
+Dec 11, 2024 8:26:10 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 21 | Total Tickets Sold: 21
+Dec 11, 2024 8:26:10 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:26:20 PM TicketSystemLogger info
+INFO: Vendor 2 added 2 ticket(s) for bun (Price: $100.00)
+Dec 11, 2024 8:26:20 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 23 | Total Tickets Sold: 21
+Dec 11, 2024 8:26:20 PM TicketSystemLogger info
+INFO: Vendor 3 added 3 ticket(s) for hello (Price: $95.00)
+Dec 11, 2024 8:26:20 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 5 | Total Tickets Added: 26 | Total Tickets Sold: 21
+Dec 11, 2024 8:26:20 PM TicketSystemLogger info
+INFO: Customer 2 purchased 2 ticket(s) for events: bun, bun | Total Price: $200.00
+Dec 11, 2024 8:26:20 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 26 | Total Tickets Sold: 23
+Dec 11, 2024 8:26:20 PM TicketSystemLogger info
+INFO: Customer 4 purchased 2 ticket(s) for events: hello, hello | Total Price: $190.00
+Dec 11, 2024 8:26:20 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 26 | Total Tickets Sold: 25
+Dec 11, 2024 8:26:20 PM TicketSystemLogger info
+INFO: Vendor 1 added 2 ticket(s) for run (Price: $90.00)
+Dec 11, 2024 8:26:20 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 28 | Total Tickets Sold: 25
+Dec 11, 2024 8:26:20 PM TicketSystemLogger info
+INFO: Customer 5 purchased 2 ticket(s) for events: hello, run | Total Price: $185.00
+Dec 11, 2024 8:26:20 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 28 | Total Tickets Sold: 27
+Dec 11, 2024 8:26:20 PM TicketSystemLogger info
+INFO: Customer 3 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 8:26:20 PM TicketSystemLogger info
+INFO: Customer 3 purchased 1 ticket(s) for events: run | Total Price: $90.00
+Dec 11, 2024 8:26:20 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 28 | Total Tickets Sold: 28
+Dec 11, 2024 8:26:20 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:26:20 PM TicketSystemLogger info
+INFO: Vendor 4 added 3 ticket(s) for dance (Price: $50.00)
+Dec 11, 2024 8:26:20 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 31 | Total Tickets Sold: 28
+Dec 11, 2024 8:26:20 PM TicketSystemLogger info
+INFO: Customer 12 purchased 2 ticket(s) for events: dance, dance | Total Price: $100.00
+Dec 11, 2024 8:26:20 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 31 | Total Tickets Sold: 30
+Dec 11, 2024 8:26:20 PM TicketSystemLogger info
+INFO: Customer 8 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 8:26:20 PM TicketSystemLogger info
+INFO: Customer 8 purchased 1 ticket(s) for events: dance | Total Price: $50.00
+Dec 11, 2024 8:26:20 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 31 | Total Tickets Sold: 31
+Dec 11, 2024 8:26:20 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:26:30 PM TicketSystemLogger info
+INFO: Vendor 3 added 3 ticket(s) for hello (Price: $95.00)
+Dec 11, 2024 8:26:30 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 34 | Total Tickets Sold: 31
+Dec 11, 2024 8:26:30 PM TicketSystemLogger info
+INFO: Vendor 2 added 2 ticket(s) for bun (Price: $100.00)
+Dec 11, 2024 8:26:30 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 5 | Total Tickets Added: 36 | Total Tickets Sold: 31
+Dec 11, 2024 8:26:30 PM TicketSystemLogger info
+INFO: Customer 11 purchased 2 ticket(s) for events: hello, hello | Total Price: $190.00
+Dec 11, 2024 8:26:30 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 36 | Total Tickets Sold: 33
+Dec 11, 2024 8:26:30 PM TicketSystemLogger info
+INFO: Customer 7 purchased 2 ticket(s) for events: hello, bun | Total Price: $195.00
+Dec 11, 2024 8:26:30 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 36 | Total Tickets Sold: 35
+Dec 11, 2024 8:26:30 PM TicketSystemLogger info
+INFO: Customer 6 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 8:26:30 PM TicketSystemLogger info
+INFO: Customer 6 purchased 1 ticket(s) for events: bun | Total Price: $100.00
+Dec 11, 2024 8:26:30 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 36 | Total Tickets Sold: 36
+Dec 11, 2024 8:26:30 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:26:30 PM TicketSystemLogger info
+INFO: Vendor 1 added 3 ticket(s) for run (Price: $90.00)
+Dec 11, 2024 8:26:30 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 39 | Total Tickets Sold: 36
+Dec 11, 2024 8:26:30 PM TicketSystemLogger info
+INFO: Customer 17 purchased 2 ticket(s) for events: run, run | Total Price: $180.00
+Dec 11, 2024 8:26:30 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 39 | Total Tickets Sold: 38
+Dec 11, 2024 8:26:30 PM TicketSystemLogger info
+INFO: Customer 15 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 8:26:30 PM TicketSystemLogger info
+INFO: Customer 15 purchased 1 ticket(s) for events: run | Total Price: $90.00
+Dec 11, 2024 8:26:30 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 39 | Total Tickets Sold: 39
+Dec 11, 2024 8:26:30 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:26:30 PM TicketSystemLogger info
+INFO: Vendor 4 added 2 ticket(s) for dance (Price: $50.00)
+Dec 11, 2024 8:26:30 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 41 | Total Tickets Sold: 39
+Dec 11, 2024 8:26:30 PM TicketSystemLogger info
+INFO: Customer 16 purchased 2 ticket(s) for events: dance, dance | Total Price: $100.00
+Dec 11, 2024 8:26:30 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 41 | Total Tickets Sold: 41
+Dec 11, 2024 8:26:30 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:26:40 PM TicketSystemLogger info
+INFO: Vendor 3 added 3 ticket(s) for hello (Price: $95.00)
+Dec 11, 2024 8:26:40 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 44 | Total Tickets Sold: 41
+Dec 11, 2024 8:26:40 PM TicketSystemLogger info
+INFO: Customer 2 purchased 2 ticket(s) for events: hello, hello | Total Price: $190.00
+Dec 11, 2024 8:26:40 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 44 | Total Tickets Sold: 43
+Dec 11, 2024 8:26:40 PM TicketSystemLogger info
+INFO: Customer 4 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 8:26:40 PM TicketSystemLogger info
+INFO: Customer 4 purchased 1 ticket(s) for events: hello | Total Price: $95.00
+Dec 11, 2024 8:26:40 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 44 | Total Tickets Sold: 44
+Dec 11, 2024 8:26:40 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:26:40 PM TicketSystemLogger info
+INFO: Vendor 2 added 2 ticket(s) for bun (Price: $100.00)
+Dec 11, 2024 8:26:40 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 46 | Total Tickets Sold: 44
+Dec 11, 2024 8:26:40 PM TicketSystemLogger info
+INFO: Customer 9 purchased 2 ticket(s) for events: bun, bun | Total Price: $200.00
+Dec 11, 2024 8:26:40 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 46 | Total Tickets Sold: 46
+Dec 11, 2024 8:26:40 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:26:40 PM TicketSystemLogger info
+INFO: Vendor 1 added 2 ticket(s) for run (Price: $90.00)
+Dec 11, 2024 8:26:40 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 48 | Total Tickets Sold: 46
+Dec 11, 2024 8:26:40 PM TicketSystemLogger info
+INFO: Customer 12 purchased 2 ticket(s) for events: run, run | Total Price: $180.00
+Dec 11, 2024 8:26:40 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 48 | Total Tickets Sold: 48
+Dec 11, 2024 8:26:40 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:26:40 PM TicketSystemLogger info
+INFO: Vendor 4 added 2 ticket(s) for dance (Price: $50.00)
+Dec 11, 2024 8:26:40 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 50 | Total Tickets Sold: 48
+Dec 11, 2024 8:26:40 PM TicketSystemLogger info
+INFO: Customer 13 purchased 2 ticket(s) for events: dance, dance | Total Price: $100.00
+Dec 11, 2024 8:26:40 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 50 | Total Tickets Sold: 50
+Dec 11, 2024 8:26:40 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:26:50 PM TicketSystemLogger info
+INFO: Vendor 3 added 2 ticket(s) for hello (Price: $95.00)
+Dec 11, 2024 8:26:50 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 52 | Total Tickets Sold: 50
+Dec 11, 2024 8:26:50 PM TicketSystemLogger info
+INFO: Customer 10 purchased 2 ticket(s) for events: hello, hello | Total Price: $190.00
+Dec 11, 2024 8:26:50 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 52 | Total Tickets Sold: 52
+Dec 11, 2024 8:26:50 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:26:50 PM TicketSystemLogger info
+INFO: Vendor 2 added 2 ticket(s) for bun (Price: $100.00)
+Dec 11, 2024 8:26:50 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 54 | Total Tickets Sold: 52
+Dec 11, 2024 8:26:50 PM TicketSystemLogger info
+INFO: Customer 6 purchased 2 ticket(s) for events: bun, bun | Total Price: $200.00
+Dec 11, 2024 8:26:50 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 54 | Total Tickets Sold: 54
+Dec 11, 2024 8:26:50 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:26:50 PM TicketSystemLogger info
+INFO: Vendor 1 added 3 ticket(s) for run (Price: $90.00)
+Dec 11, 2024 8:26:50 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 57 | Total Tickets Sold: 54
+Dec 11, 2024 8:26:50 PM TicketSystemLogger info
+INFO: Customer 18 purchased 2 ticket(s) for events: run, run | Total Price: $180.00
+Dec 11, 2024 8:26:50 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 57 | Total Tickets Sold: 56
+Dec 11, 2024 8:26:50 PM TicketSystemLogger info
+INFO: Customer 20 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 8:26:50 PM TicketSystemLogger info
+INFO: Customer 20 purchased 1 ticket(s) for events: run | Total Price: $90.00
+Dec 11, 2024 8:26:50 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 57 | Total Tickets Sold: 57
+Dec 11, 2024 8:26:50 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:26:50 PM TicketSystemLogger info
+INFO: Vendor 4 added 3 ticket(s) for dance (Price: $50.00)
+Dec 11, 2024 8:26:50 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 60 | Total Tickets Sold: 57
+Dec 11, 2024 8:26:50 PM TicketSystemLogger info
+INFO: Customer 19 purchased 2 ticket(s) for events: dance, dance | Total Price: $100.00
+Dec 11, 2024 8:26:50 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 60 | Total Tickets Sold: 59
+Dec 11, 2024 8:26:50 PM TicketSystemLogger info
+INFO: Customer 15 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 8:26:50 PM TicketSystemLogger info
+INFO: Customer 15 purchased 1 ticket(s) for events: dance | Total Price: $50.00
+Dec 11, 2024 8:26:50 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 60 | Total Tickets Sold: 60
+Dec 11, 2024 8:26:50 PM TicketSystemLogger info
+INFO: All tickets have been sold, and the ticket limit has been reached. Stopping the system...
+Dec 11, 2024 8:26:50 PM TicketSystemLogger info
+INFO: System Stopped - Total Statistics:
+Dec 11, 2024 8:26:50 PM TicketSystemLogger info
+INFO: Total Tickets Added to Pool: 60
+Dec 11, 2024 8:26:50 PM TicketSystemLogger info
+INFO: Total Tickets Sold: 60
+Dec 11, 2024 8:26:50 PM TicketSystemLogger info
+INFO: System stopped. All operations halted.
+Dec 11, 2024 8:26:54 PM TicketSystemLogger info
+INFO: Ticket handling system has been reset and is ready to start again.
+
+Dec 11, 2024 8:26:56 PM TicketSystemLogger info
+INFO: Configuration loaded successfully from the 'system_config' table in the database.
+Dec 11, 2024 8:30:34 PM TicketSystemLogger info
+INFO: Configuration loaded successfully from the 'system_config' table in the database.
+Dec 11, 2024 8:31:46 PM TicketSystemLogger info
+INFO: System Configured Successfully - Configuration Details: Total Tickets: 50, Max Ticket Capacity: 50, Ticket Release Rate: 2, Customer Retrieval Rate: 3
+Dec 11, 2024 8:31:46 PM TicketSystemLogger info
+INFO: Event Configuration:
+Dec 11, 2024 8:31:46 PM TicketSystemLogger info
+INFO: Event: bun | Ticket Price: $1000.00
+Dec 11, 2024 8:31:46 PM TicketSystemLogger info
+INFO: Event: runing | Ticket Price: $500.00
+Dec 11, 2024 8:32:51 PM TicketSystemLogger info
+INFO: System started. Vendors and customers are now active.
+Dec 11, 2024 8:32:51 PM TicketSystemLogger info
+INFO: Vendor 2 added 2 ticket(s) for runing (Price: $500.00)
+Dec 11, 2024 8:32:51 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 2 | Total Tickets Sold: 0
+Dec 11, 2024 8:32:51 PM TicketSystemLogger info
+INFO: Vendor 1 added 2 ticket(s) for bun (Price: $1000.00)
+Dec 11, 2024 8:32:51 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 4 | Total Tickets Added: 4 | Total Tickets Sold: 0
+Dec 11, 2024 8:32:51 PM TicketSystemLogger info
+INFO: Customer 7 purchased 2 ticket(s) for events: runing, runing | Total Price: $1000.00
+Dec 11, 2024 8:32:51 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 4 | Total Tickets Sold: 2
+Dec 11, 2024 8:32:51 PM TicketSystemLogger info
+INFO: Customer 3 requested 3 tickets, but only 2 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 8:32:51 PM TicketSystemLogger info
+INFO: Customer 3 purchased 2 ticket(s) for events: bun, bun | Total Price: $2000.00
+Dec 11, 2024 8:32:51 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 4 | Total Tickets Sold: 4
+Dec 11, 2024 8:32:51 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:33:06 PM TicketSystemLogger info
+INFO: Vendor 2 added 2 ticket(s) for runing (Price: $500.00)
+Dec 11, 2024 8:33:06 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 6 | Total Tickets Sold: 4
+Dec 11, 2024 8:33:06 PM TicketSystemLogger info
+INFO: Customer 5 requested 3 tickets, but only 2 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 8:33:06 PM TicketSystemLogger info
+INFO: Customer 5 purchased 2 ticket(s) for events: runing, runing | Total Price: $1000.00
+Dec 11, 2024 8:33:06 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 6 | Total Tickets Sold: 6
+Dec 11, 2024 8:33:06 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:33:06 PM TicketSystemLogger info
+INFO: Vendor 1 added 2 ticket(s) for bun (Price: $1000.00)
+Dec 11, 2024 8:33:06 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 8 | Total Tickets Sold: 6
+Dec 11, 2024 8:33:06 PM TicketSystemLogger info
+INFO: Customer 6 purchased 2 ticket(s) for events: bun, bun | Total Price: $2000.00
+Dec 11, 2024 8:33:06 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 8 | Total Tickets Sold: 8
+Dec 11, 2024 8:33:06 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:33:21 PM TicketSystemLogger info
+INFO: Vendor 2 added 2 ticket(s) for runing (Price: $500.00)
+Dec 11, 2024 8:33:21 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 10 | Total Tickets Sold: 8
+Dec 11, 2024 8:33:21 PM TicketSystemLogger info
+INFO: Customer 9 purchased 2 ticket(s) for events: runing, runing | Total Price: $1000.00
+Dec 11, 2024 8:33:21 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 10 | Total Tickets Sold: 10
+Dec 11, 2024 8:33:21 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:33:21 PM TicketSystemLogger info
+INFO: Vendor 1 added 2 ticket(s) for bun (Price: $1000.00)
+Dec 11, 2024 8:33:21 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 12 | Total Tickets Sold: 10
+Dec 11, 2024 8:33:21 PM TicketSystemLogger info
+INFO: Customer 11 purchased 2 ticket(s) for events: bun, bun | Total Price: $2000.00
+Dec 11, 2024 8:33:21 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 12 | Total Tickets Sold: 12
+Dec 11, 2024 8:33:21 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:33:36 PM TicketSystemLogger info
+INFO: Vendor 2 added 2 ticket(s) for runing (Price: $500.00)
+Dec 11, 2024 8:33:36 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 14 | Total Tickets Sold: 12
+Dec 11, 2024 8:33:36 PM TicketSystemLogger info
+INFO: Customer 13 requested 3 tickets, but only 2 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 8:33:36 PM TicketSystemLogger info
+INFO: Customer 13 purchased 2 ticket(s) for events: runing, runing | Total Price: $1000.00
+Dec 11, 2024 8:33:36 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 14 | Total Tickets Sold: 14
+Dec 11, 2024 8:33:36 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:33:36 PM TicketSystemLogger info
+INFO: Vendor 1 added 2 ticket(s) for bun (Price: $1000.00)
+Dec 11, 2024 8:33:36 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 16 | Total Tickets Sold: 14
+Dec 11, 2024 8:33:36 PM TicketSystemLogger info
+INFO: Customer 15 purchased 2 ticket(s) for events: bun, bun | Total Price: $2000.00
+Dec 11, 2024 8:33:36 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 16 | Total Tickets Sold: 16
+Dec 11, 2024 8:33:36 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:33:51 PM TicketSystemLogger info
+INFO: Vendor 2 added 2 ticket(s) for runing (Price: $500.00)
+Dec 11, 2024 8:33:51 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 18 | Total Tickets Sold: 16
+Dec 11, 2024 8:33:51 PM TicketSystemLogger info
+INFO: Customer 16 requested 3 tickets, but only 2 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 8:33:51 PM TicketSystemLogger info
+INFO: Customer 16 purchased 2 ticket(s) for events: runing, runing | Total Price: $1000.00
+Dec 11, 2024 8:33:51 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 18 | Total Tickets Sold: 18
+Dec 11, 2024 8:33:51 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:33:51 PM TicketSystemLogger info
+INFO: Vendor 1 added 2 ticket(s) for bun (Price: $1000.00)
+Dec 11, 2024 8:33:51 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 20 | Total Tickets Sold: 18
+Dec 11, 2024 8:33:51 PM TicketSystemLogger info
+INFO: Customer 20 requested 3 tickets, but only 2 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 8:33:51 PM TicketSystemLogger info
+INFO: Customer 20 purchased 2 ticket(s) for events: bun, bun | Total Price: $2000.00
+Dec 11, 2024 8:33:51 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 20 | Total Tickets Sold: 20
+Dec 11, 2024 8:33:51 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:34:06 PM TicketSystemLogger info
+INFO: Vendor 2 added 2 ticket(s) for runing (Price: $500.00)
+Dec 11, 2024 8:34:06 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 22 | Total Tickets Sold: 20
+Dec 11, 2024 8:34:06 PM TicketSystemLogger info
+INFO: Customer 7 purchased 2 ticket(s) for events: runing, runing | Total Price: $1000.00
+Dec 11, 2024 8:34:06 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 22 | Total Tickets Sold: 22
+Dec 11, 2024 8:34:06 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:34:06 PM TicketSystemLogger info
+INFO: Vendor 1 added 2 ticket(s) for bun (Price: $1000.00)
+Dec 11, 2024 8:34:06 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 24 | Total Tickets Sold: 22
+Dec 11, 2024 8:34:06 PM TicketSystemLogger info
+INFO: Customer 4 purchased 2 ticket(s) for events: bun, bun | Total Price: $2000.00
+Dec 11, 2024 8:34:06 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 24 | Total Tickets Sold: 24
+Dec 11, 2024 8:34:06 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:34:11 PM TicketSystemLogger info
+INFO: System Stopped - Total Statistics:
+Dec 11, 2024 8:34:11 PM TicketSystemLogger info
+INFO: Total Tickets Added to Pool: 24
+Dec 11, 2024 8:34:11 PM TicketSystemLogger info
+INFO: Total Tickets Sold: 24
+Dec 11, 2024 8:34:11 PM TicketSystemLogger info
+INFO: System stopped. All operations halted.
+Dec 11, 2024 8:38:17 PM TicketSystemLogger info
+INFO: Exiting the system. Application is stopping.
+Dec 11, 2024 8:41:24 PM TicketSystemLogger info
+INFO: System Configured Successfully - Configuration Details: Total Tickets: 45, Max Ticket Capacity: 50, Ticket Release Rate: 4, Customer Retrieval Rate: 3
+Dec 11, 2024 8:41:24 PM TicketSystemLogger info
+INFO: Event Configuration:
+Dec 11, 2024 8:41:24 PM TicketSystemLogger info
+INFO: Event: Love Movie | Ticket Price: $300.00
+Dec 11, 2024 8:41:24 PM TicketSystemLogger info
+INFO: Event: Cars Movie | Ticket Price: $200.00
+Dec 11, 2024 8:41:24 PM TicketSystemLogger info
+INFO: Event: Party Movie | Ticket Price: $500.00
+Dec 11, 2024 8:41:36 PM TicketSystemLogger info
+INFO: System started. Vendors and customers are now active.
+Dec 11, 2024 8:41:36 PM TicketSystemLogger info
+INFO: Vendor 1 added 4 ticket(s) for Cars Movie (Price: $200.00)
+Dec 11, 2024 8:41:36 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 4 | Total Tickets Added: 4 | Total Tickets Sold: 0
+Dec 11, 2024 8:41:36 PM TicketSystemLogger info
+INFO: Vendor 2 added 2 ticket(s) for Love Movie (Price: $300.00)
+Dec 11, 2024 8:41:36 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 6 | Total Tickets Added: 6 | Total Tickets Sold: 0
+Dec 11, 2024 8:41:36 PM TicketSystemLogger info
+INFO: Vendor 3 added 3 ticket(s) for Party Movie (Price: $500.00)
+Dec 11, 2024 8:41:36 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 9 | Total Tickets Added: 9 | Total Tickets Sold: 0
+Dec 11, 2024 8:41:36 PM TicketSystemLogger info
+INFO: Customer 2 purchased 2 ticket(s) for events: Cars Movie, Cars Movie | Total Price: $400.00
+Dec 11, 2024 8:41:36 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 7 | Total Tickets Added: 9 | Total Tickets Sold: 2
+Dec 11, 2024 8:41:36 PM TicketSystemLogger info
+INFO: Customer 4 purchased 2 ticket(s) for events: Cars Movie, Cars Movie | Total Price: $400.00
+Dec 11, 2024 8:41:36 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 5 | Total Tickets Added: 9 | Total Tickets Sold: 4
+Dec 11, 2024 8:41:36 PM TicketSystemLogger info
+INFO: Customer 3 purchased 2 ticket(s) for events: Love Movie, Love Movie | Total Price: $600.00
+Dec 11, 2024 8:41:36 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 9 | Total Tickets Sold: 6
+Dec 11, 2024 8:41:36 PM TicketSystemLogger info
+INFO: Customer 1 purchased 2 ticket(s) for events: Party Movie, Party Movie | Total Price: $1000.00
+Dec 11, 2024 8:41:36 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 9 | Total Tickets Sold: 8
+Dec 11, 2024 8:41:36 PM TicketSystemLogger info
+INFO: Customer 6 requested 3 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 8:41:36 PM TicketSystemLogger info
+INFO: Customer 6 purchased 1 ticket(s) for events: Party Movie | Total Price: $500.00
+Dec 11, 2024 8:41:36 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 9 | Total Tickets Sold: 9
+Dec 11, 2024 8:41:36 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:41:43 PM TicketSystemLogger info
+INFO: Vendor 3 added 4 ticket(s) for Party Movie (Price: $500.00)
+Dec 11, 2024 8:41:43 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 4 | Total Tickets Added: 13 | Total Tickets Sold: 9
+Dec 11, 2024 8:41:43 PM TicketSystemLogger info
+INFO: Customer 10 purchased 3 ticket(s) for events: Party Movie, Party Movie, Party Movie | Total Price: $1500.00
+Dec 11, 2024 8:41:43 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 13 | Total Tickets Sold: 12
+Dec 11, 2024 8:41:43 PM TicketSystemLogger info
+INFO: Customer 11 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 8:41:44 PM TicketSystemLogger info
+INFO: Customer 11 purchased 1 ticket(s) for events: Party Movie | Total Price: $500.00
+Dec 11, 2024 8:41:44 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 13 | Total Tickets Sold: 13
+Dec 11, 2024 8:41:44 PM TicketSystemLogger info
+INFO: Vendor 1 added 3 ticket(s) for Cars Movie (Price: $200.00)
+Dec 11, 2024 8:41:44 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 16 | Total Tickets Sold: 13
+Dec 11, 2024 8:41:44 PM TicketSystemLogger info
+INFO: Customer 12 purchased 3 ticket(s) for events: Cars Movie, Cars Movie, Cars Movie | Total Price: $600.00
+Dec 11, 2024 8:41:44 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 16 | Total Tickets Sold: 16
+Dec 11, 2024 8:41:44 PM TicketSystemLogger info
+INFO: Vendor 2 added 3 ticket(s) for Love Movie (Price: $300.00)
+Dec 11, 2024 8:41:44 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 19 | Total Tickets Sold: 16
+Dec 11, 2024 8:41:44 PM TicketSystemLogger info
+INFO: Customer 13 purchased 2 ticket(s) for events: Love Movie, Love Movie | Total Price: $600.00
+Dec 11, 2024 8:41:44 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 19 | Total Tickets Sold: 18
+Dec 11, 2024 8:41:44 PM TicketSystemLogger info
+INFO: Customer 14 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 8:41:44 PM TicketSystemLogger info
+INFO: Customer 14 purchased 1 ticket(s) for events: Love Movie | Total Price: $300.00
+Dec 11, 2024 8:41:44 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 19 | Total Tickets Sold: 19
+Dec 11, 2024 8:41:44 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:41:51 PM TicketSystemLogger info
+INFO: Vendor 3 added 3 ticket(s) for Party Movie (Price: $500.00)
+Dec 11, 2024 8:41:51 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 22 | Total Tickets Sold: 19
+Dec 11, 2024 8:41:51 PM TicketSystemLogger info
+INFO: Customer 2 purchased 3 ticket(s) for events: Party Movie, Party Movie, Party Movie | Total Price: $1500.00
+Dec 11, 2024 8:41:51 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 22 | Total Tickets Sold: 22
+Dec 11, 2024 8:41:51 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:41:51 PM TicketSystemLogger info
+INFO: Vendor 1 added 3 ticket(s) for Cars Movie (Price: $200.00)
+Dec 11, 2024 8:41:51 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 25 | Total Tickets Sold: 22
+Dec 11, 2024 8:41:51 PM TicketSystemLogger info
+INFO: Customer 3 purchased 3 ticket(s) for events: Cars Movie, Cars Movie, Cars Movie | Total Price: $600.00
+Dec 11, 2024 8:41:51 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 25 | Total Tickets Sold: 25
+Dec 11, 2024 8:41:51 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:41:51 PM TicketSystemLogger info
+INFO: Vendor 2 added 3 ticket(s) for Love Movie (Price: $300.00)
+Dec 11, 2024 8:41:51 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 28 | Total Tickets Sold: 25
+Dec 11, 2024 8:41:51 PM TicketSystemLogger info
+INFO: Customer 5 purchased 3 ticket(s) for events: Love Movie, Love Movie, Love Movie | Total Price: $900.00
+Dec 11, 2024 8:41:51 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 28 | Total Tickets Sold: 28
+Dec 11, 2024 8:41:51 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:41:58 PM TicketSystemLogger info
+INFO: Vendor 3 added 4 ticket(s) for Party Movie (Price: $500.00)
+Dec 11, 2024 8:41:58 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 4 | Total Tickets Added: 32 | Total Tickets Sold: 28
+Dec 11, 2024 8:41:58 PM TicketSystemLogger info
+INFO: Customer 8 purchased 2 ticket(s) for events: Party Movie, Party Movie | Total Price: $1000.00
+Dec 11, 2024 8:41:58 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 32 | Total Tickets Sold: 30
+Dec 11, 2024 8:41:59 PM TicketSystemLogger info
+INFO: Customer 10 purchased 2 ticket(s) for events: Party Movie, Party Movie | Total Price: $1000.00
+Dec 11, 2024 8:41:59 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 32 | Total Tickets Sold: 32
+Dec 11, 2024 8:41:59 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:41:59 PM TicketSystemLogger info
+INFO: Vendor 1 added 3 ticket(s) for Cars Movie (Price: $200.00)
+Dec 11, 2024 8:41:59 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 35 | Total Tickets Sold: 32
+Dec 11, 2024 8:41:59 PM TicketSystemLogger info
+INFO: Customer 13 purchased 3 ticket(s) for events: Cars Movie, Cars Movie, Cars Movie | Total Price: $600.00
+Dec 11, 2024 8:41:59 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 35 | Total Tickets Sold: 35
+Dec 11, 2024 8:41:59 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:41:59 PM TicketSystemLogger info
+INFO: Vendor 2 added 2 ticket(s) for Love Movie (Price: $300.00)
+Dec 11, 2024 8:41:59 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 37 | Total Tickets Sold: 35
+Dec 11, 2024 8:41:59 PM TicketSystemLogger info
+INFO: Customer 16 requested 3 tickets, but only 2 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 8:41:59 PM TicketSystemLogger info
+INFO: Customer 16 purchased 2 ticket(s) for events: Love Movie, Love Movie | Total Price: $600.00
+Dec 11, 2024 8:41:59 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 37 | Total Tickets Sold: 37
+Dec 11, 2024 8:41:59 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:42:06 PM TicketSystemLogger info
+INFO: Vendor 3 added 4 ticket(s) for Party Movie (Price: $500.00)
+Dec 11, 2024 8:42:06 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 4 | Total Tickets Added: 41 | Total Tickets Sold: 37
+Dec 11, 2024 8:42:06 PM TicketSystemLogger info
+INFO: Customer 19 purchased 3 ticket(s) for events: Party Movie, Party Movie, Party Movie | Total Price: $1500.00
+Dec 11, 2024 8:42:06 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 41 | Total Tickets Sold: 40
+Dec 11, 2024 8:42:06 PM TicketSystemLogger info
+INFO: Customer 18 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 8:42:06 PM TicketSystemLogger info
+INFO: Customer 18 purchased 1 ticket(s) for events: Party Movie | Total Price: $500.00
+Dec 11, 2024 8:42:06 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 41 | Total Tickets Sold: 41
+Dec 11, 2024 8:42:06 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:42:06 PM TicketSystemLogger info
+INFO: Vendor 1 added 4 ticket(s) for Cars Movie (Price: $200.00)
+Dec 11, 2024 8:42:06 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 4 | Total Tickets Added: 45 | Total Tickets Sold: 41
+Dec 11, 2024 8:42:06 PM TicketSystemLogger info
+INFO: Customer 20 purchased 3 ticket(s) for events: Cars Movie, Cars Movie, Cars Movie | Total Price: $600.00
+Dec 11, 2024 8:42:06 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 45 | Total Tickets Sold: 44
+Dec 11, 2024 8:42:06 PM TicketSystemLogger info
+INFO: Customer 3 requested 3 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 8:42:06 PM TicketSystemLogger info
+INFO: Customer 3 purchased 1 ticket(s) for events: Cars Movie | Total Price: $200.00
+Dec 11, 2024 8:42:06 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 45 | Total Tickets Sold: 45
+Dec 11, 2024 8:42:06 PM TicketSystemLogger info
+INFO: All tickets have been sold, and the ticket limit has been reached. Stopping the system...
+Dec 11, 2024 8:42:06 PM TicketSystemLogger info
+INFO: System Stopped - Total Statistics:
+Dec 11, 2024 8:42:06 PM TicketSystemLogger info
+INFO: Total Tickets Added to Pool: 45
+Dec 11, 2024 8:42:06 PM TicketSystemLogger info
+INFO: Total Tickets Sold: 45
+Dec 11, 2024 8:42:06 PM TicketSystemLogger info
+INFO: System stopped. All operations halted.
+Dec 11, 2024 8:42:21 PM TicketSystemLogger info
+INFO: Ticket handling system has been reset and is ready to start again.
+
+Dec 11, 2024 8:43:42 PM TicketSystemLogger info
+INFO: System Configured Successfully - Configuration Details: Total Tickets: 75, Max Ticket Capacity: 80, Ticket Release Rate: 4, Customer Retrieval Rate: 3
+Dec 11, 2024 8:43:42 PM TicketSystemLogger info
+INFO: Event Configuration:
+Dec 11, 2024 8:43:42 PM TicketSystemLogger info
+INFO: Event: Run Movie | Ticket Price: $1000.00
+Dec 11, 2024 8:43:42 PM TicketSystemLogger info
+INFO: Event: Love movie | Ticket Price: $500.00
+Dec 11, 2024 8:44:23 PM TicketSystemLogger info
+INFO: Vendor 2 added 2 ticket(s) for Love movie (Price: $500.00)
+Dec 11, 2024 8:44:23 PM TicketSystemLogger info
+INFO: System started. Vendors and customers are now active.
+Dec 11, 2024 8:44:23 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 2 | Total Tickets Sold: 0
+Dec 11, 2024 8:44:23 PM TicketSystemLogger info
+INFO: Customer 5 requested 3 tickets, but only 2 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 8:44:23 PM TicketSystemLogger info
+INFO: Customer 5 purchased 2 ticket(s) for events: Love movie, Love movie | Total Price: $1000.00
+Dec 11, 2024 8:44:23 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 2 | Total Tickets Sold: 2
+Dec 11, 2024 8:44:23 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:44:23 PM TicketSystemLogger info
+INFO: Vendor 1 added 3 ticket(s) for Run Movie (Price: $1000.00)
+Dec 11, 2024 8:44:23 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 5 | Total Tickets Sold: 2
+Dec 11, 2024 8:44:23 PM TicketSystemLogger info
+INFO: Customer 2 purchased 2 ticket(s) for events: Run Movie, Run Movie | Total Price: $2000.00
+Dec 11, 2024 8:44:23 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 5 | Total Tickets Sold: 4
+Dec 11, 2024 8:44:23 PM TicketSystemLogger info
+INFO: Customer 4 requested 3 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 8:44:23 PM TicketSystemLogger info
+INFO: Customer 4 purchased 1 ticket(s) for events: Run Movie | Total Price: $1000.00
+Dec 11, 2024 8:44:23 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 5 | Total Tickets Sold: 5
+Dec 11, 2024 8:44:23 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:44:30 PM TicketSystemLogger info
+INFO: Vendor 2 added 2 ticket(s) for Love movie (Price: $500.00)
+Dec 11, 2024 8:44:30 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 7 | Total Tickets Sold: 5
+Dec 11, 2024 8:44:30 PM TicketSystemLogger info
+INFO: Customer 6 purchased 2 ticket(s) for events: Love movie, Love movie | Total Price: $1000.00
+Dec 11, 2024 8:44:30 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 7 | Total Tickets Sold: 7
+Dec 11, 2024 8:44:30 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:44:30 PM TicketSystemLogger info
+INFO: Vendor 1 added 4 ticket(s) for Run Movie (Price: $1000.00)
+Dec 11, 2024 8:44:30 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 4 | Total Tickets Added: 11 | Total Tickets Sold: 7
+Dec 11, 2024 8:44:30 PM TicketSystemLogger info
+INFO: Customer 7 purchased 3 ticket(s) for events: Run Movie, Run Movie, Run Movie | Total Price: $3000.00
+Dec 11, 2024 8:44:30 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 11 | Total Tickets Sold: 10
+Dec 11, 2024 8:44:30 PM TicketSystemLogger info
+INFO: Customer 18 requested 3 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 8:44:30 PM TicketSystemLogger info
+INFO: Customer 18 purchased 1 ticket(s) for events: Run Movie | Total Price: $1000.00
+Dec 11, 2024 8:44:30 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 11 | Total Tickets Sold: 11
+Dec 11, 2024 8:44:30 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:44:38 PM TicketSystemLogger info
+INFO: Vendor 2 added 2 ticket(s) for Love movie (Price: $500.00)
+Dec 11, 2024 8:44:38 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 13 | Total Tickets Sold: 11
+Dec 11, 2024 8:44:38 PM TicketSystemLogger info
+INFO: Customer 11 purchased 2 ticket(s) for events: Love movie, Love movie | Total Price: $1000.00
+Dec 11, 2024 8:44:38 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 13 | Total Tickets Sold: 13
+Dec 11, 2024 8:44:38 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:44:38 PM TicketSystemLogger info
+INFO: Vendor 1 added 2 ticket(s) for Run Movie (Price: $1000.00)
+Dec 11, 2024 8:44:38 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 15 | Total Tickets Sold: 13
+Dec 11, 2024 8:44:38 PM TicketSystemLogger info
+INFO: Customer 14 purchased 2 ticket(s) for events: Run Movie, Run Movie | Total Price: $2000.00
+Dec 11, 2024 8:44:38 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 15 | Total Tickets Sold: 15
+Dec 11, 2024 8:44:38 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:44:43 PM TicketSystemLogger info
+INFO: System Stopped - Total Statistics:
+Dec 11, 2024 8:44:43 PM TicketSystemLogger info
+INFO: Total Tickets Added to Pool: 15
+Dec 11, 2024 8:44:43 PM TicketSystemLogger info
+INFO: Total Tickets Sold: 15
+Dec 11, 2024 8:44:43 PM TicketSystemLogger info
+INFO: System stopped. All operations halted.
+Dec 11, 2024 8:44:57 PM TicketSystemLogger info
+INFO: Vendor 1 added 4 ticket(s) for Run Movie (Price: $1000.00)
+Dec 11, 2024 8:44:57 PM TicketSystemLogger info
+INFO: System started. Vendors and customers are now active.
+Dec 11, 2024 8:44:57 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 4 | Total Tickets Added: 19 | Total Tickets Sold: 15
+Dec 11, 2024 8:44:58 PM TicketSystemLogger info
+INFO: Customer 2 purchased 2 ticket(s) for events: Run Movie, Run Movie | Total Price: $2000.00
+Dec 11, 2024 8:44:58 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 19 | Total Tickets Sold: 17
+Dec 11, 2024 8:44:58 PM TicketSystemLogger info
+INFO: Customer 4 purchased 2 ticket(s) for events: Run Movie, Run Movie | Total Price: $2000.00
+Dec 11, 2024 8:44:58 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 19 | Total Tickets Sold: 19
+Dec 11, 2024 8:44:58 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:44:58 PM TicketSystemLogger info
+INFO: Vendor 2 added 4 ticket(s) for Love movie (Price: $500.00)
+Dec 11, 2024 8:44:58 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 4 | Total Tickets Added: 23 | Total Tickets Sold: 19
+Dec 11, 2024 8:44:58 PM TicketSystemLogger info
+INFO: Customer 1 purchased 2 ticket(s) for events: Love movie, Love movie | Total Price: $1000.00
+Dec 11, 2024 8:44:58 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 23 | Total Tickets Sold: 21
+Dec 11, 2024 8:44:58 PM TicketSystemLogger info
+INFO: Customer 5 purchased 2 ticket(s) for events: Love movie, Love movie | Total Price: $1000.00
+Dec 11, 2024 8:44:58 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 23 | Total Tickets Sold: 23
+Dec 11, 2024 8:44:58 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:45:05 PM TicketSystemLogger info
+INFO: Vendor 1 added 3 ticket(s) for Run Movie (Price: $1000.00)
+Dec 11, 2024 8:45:05 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 26 | Total Tickets Sold: 23
+Dec 11, 2024 8:45:05 PM TicketSystemLogger info
+INFO: Customer 9 purchased 2 ticket(s) for events: Run Movie, Run Movie | Total Price: $2000.00
+Dec 11, 2024 8:45:05 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 26 | Total Tickets Sold: 25
+Dec 11, 2024 8:45:05 PM TicketSystemLogger info
+INFO: Customer 10 requested 3 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 8:45:05 PM TicketSystemLogger info
+INFO: Customer 10 purchased 1 ticket(s) for events: Run Movie | Total Price: $1000.00
+Dec 11, 2024 8:45:05 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 26 | Total Tickets Sold: 26
+Dec 11, 2024 8:45:05 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:45:05 PM TicketSystemLogger info
+INFO: Vendor 2 added 2 ticket(s) for Love movie (Price: $500.00)
+Dec 11, 2024 8:45:05 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 28 | Total Tickets Sold: 26
+Dec 11, 2024 8:45:05 PM TicketSystemLogger info
+INFO: Customer 8 requested 3 tickets, but only 2 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 8:45:05 PM TicketSystemLogger info
+INFO: Customer 8 purchased 2 ticket(s) for events: Love movie, Love movie | Total Price: $1000.00
+Dec 11, 2024 8:45:05 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 28 | Total Tickets Sold: 28
+Dec 11, 2024 8:45:05 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:45:12 PM TicketSystemLogger info
+INFO: Vendor 1 added 4 ticket(s) for Run Movie (Price: $1000.00)
+Dec 11, 2024 8:45:12 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 4 | Total Tickets Added: 32 | Total Tickets Sold: 28
+Dec 11, 2024 8:45:13 PM TicketSystemLogger info
+INFO: Customer 14 purchased 3 ticket(s) for events: Run Movie, Run Movie, Run Movie | Total Price: $3000.00
+Dec 11, 2024 8:45:13 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 32 | Total Tickets Sold: 31
+Dec 11, 2024 8:45:13 PM TicketSystemLogger info
+INFO: Customer 20 requested 3 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 8:45:13 PM TicketSystemLogger info
+INFO: Customer 20 purchased 1 ticket(s) for events: Run Movie | Total Price: $1000.00
+Dec 11, 2024 8:45:13 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 32 | Total Tickets Sold: 32
+Dec 11, 2024 8:45:13 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:45:13 PM TicketSystemLogger info
+INFO: Vendor 2 added 3 ticket(s) for Love movie (Price: $500.00)
+Dec 11, 2024 8:45:13 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 35 | Total Tickets Sold: 32
+Dec 11, 2024 8:45:13 PM TicketSystemLogger info
+INFO: Customer 19 purchased 2 ticket(s) for events: Love movie, Love movie | Total Price: $1000.00
+Dec 11, 2024 8:45:13 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 35 | Total Tickets Sold: 34
+Dec 11, 2024 8:45:13 PM TicketSystemLogger info
+INFO: Customer 18 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 8:45:13 PM TicketSystemLogger info
+INFO: Customer 18 purchased 1 ticket(s) for events: Love movie | Total Price: $500.00
+Dec 11, 2024 8:45:13 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 35 | Total Tickets Sold: 35
+Dec 11, 2024 8:45:13 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:45:20 PM TicketSystemLogger info
+INFO: Vendor 1 added 3 ticket(s) for Run Movie (Price: $1000.00)
+Dec 11, 2024 8:45:20 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 38 | Total Tickets Sold: 35
+Dec 11, 2024 8:45:20 PM TicketSystemLogger info
+INFO: Customer 2 purchased 2 ticket(s) for events: Run Movie, Run Movie | Total Price: $2000.00
+Dec 11, 2024 8:45:20 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 38 | Total Tickets Sold: 37
+Dec 11, 2024 8:45:20 PM TicketSystemLogger info
+INFO: Customer 4 requested 3 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 8:45:20 PM TicketSystemLogger info
+INFO: Customer 4 purchased 1 ticket(s) for events: Run Movie | Total Price: $1000.00
+Dec 11, 2024 8:45:20 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 38 | Total Tickets Sold: 38
+Dec 11, 2024 8:45:20 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:45:20 PM TicketSystemLogger info
+INFO: Vendor 2 added 4 ticket(s) for Love movie (Price: $500.00)
+Dec 11, 2024 8:45:20 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 4 | Total Tickets Added: 42 | Total Tickets Sold: 38
+Dec 11, 2024 8:45:20 PM TicketSystemLogger info
+INFO: Customer 6 purchased 2 ticket(s) for events: Love movie, Love movie | Total Price: $1000.00
+Dec 11, 2024 8:45:20 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 42 | Total Tickets Sold: 40
+Dec 11, 2024 8:45:20 PM TicketSystemLogger info
+INFO: Customer 1 purchased 2 ticket(s) for events: Love movie, Love movie | Total Price: $1000.00
+Dec 11, 2024 8:45:20 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 42 | Total Tickets Sold: 42
+Dec 11, 2024 8:45:20 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:45:28 PM TicketSystemLogger info
+INFO: Vendor 1 added 4 ticket(s) for Run Movie (Price: $1000.00)
+Dec 11, 2024 8:45:28 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 4 | Total Tickets Added: 46 | Total Tickets Sold: 42
+Dec 11, 2024 8:45:28 PM TicketSystemLogger info
+INFO: Customer 7 purchased 3 ticket(s) for events: Run Movie, Run Movie, Run Movie | Total Price: $3000.00
+Dec 11, 2024 8:45:28 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 46 | Total Tickets Sold: 45
+Dec 11, 2024 8:45:28 PM TicketSystemLogger info
+INFO: Customer 9 requested 3 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 8:45:28 PM TicketSystemLogger info
+INFO: Customer 9 purchased 1 ticket(s) for events: Run Movie | Total Price: $1000.00
+Dec 11, 2024 8:45:28 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 46 | Total Tickets Sold: 46
+Dec 11, 2024 8:45:28 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:45:28 PM TicketSystemLogger info
+INFO: Vendor 2 added 3 ticket(s) for Love movie (Price: $500.00)
+Dec 11, 2024 8:45:28 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 49 | Total Tickets Sold: 46
+Dec 11, 2024 8:45:28 PM TicketSystemLogger info
+INFO: Customer 8 purchased 2 ticket(s) for events: Love movie, Love movie | Total Price: $1000.00
+Dec 11, 2024 8:45:28 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 49 | Total Tickets Sold: 48
+Dec 11, 2024 8:45:28 PM TicketSystemLogger info
+INFO: Customer 13 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 8:45:28 PM TicketSystemLogger info
+INFO: Customer 13 purchased 1 ticket(s) for events: Love movie | Total Price: $500.00
+Dec 11, 2024 8:45:28 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 49 | Total Tickets Sold: 49
+Dec 11, 2024 8:45:28 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:45:35 PM TicketSystemLogger info
+INFO: Vendor 1 added 3 ticket(s) for Run Movie (Price: $1000.00)
+Dec 11, 2024 8:45:35 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 52 | Total Tickets Sold: 49
+Dec 11, 2024 8:45:35 PM TicketSystemLogger info
+INFO: Customer 17 purchased 2 ticket(s) for events: Run Movie, Run Movie | Total Price: $2000.00
+Dec 11, 2024 8:45:35 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 52 | Total Tickets Sold: 51
+Dec 11, 2024 8:45:35 PM TicketSystemLogger info
+INFO: Customer 16 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 8:45:35 PM TicketSystemLogger info
+INFO: Customer 16 purchased 1 ticket(s) for events: Run Movie | Total Price: $1000.00
+Dec 11, 2024 8:45:35 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 52 | Total Tickets Sold: 52
+Dec 11, 2024 8:45:35 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:45:35 PM TicketSystemLogger info
+INFO: Vendor 2 added 2 ticket(s) for Love movie (Price: $500.00)
+Dec 11, 2024 8:45:35 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 54 | Total Tickets Sold: 52
+Dec 11, 2024 8:45:35 PM TicketSystemLogger info
+INFO: Customer 19 requested 3 tickets, but only 2 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 8:45:35 PM TicketSystemLogger info
+INFO: Customer 19 purchased 2 ticket(s) for events: Love movie, Love movie | Total Price: $1000.00
+Dec 11, 2024 8:45:35 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 54 | Total Tickets Sold: 54
+Dec 11, 2024 8:45:35 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:45:43 PM TicketSystemLogger info
+INFO: Vendor 1 added 3 ticket(s) for Run Movie (Price: $1000.00)
+Dec 11, 2024 8:45:43 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 57 | Total Tickets Sold: 54
+Dec 11, 2024 8:45:43 PM TicketSystemLogger info
+INFO: Customer 11 purchased 3 ticket(s) for events: Run Movie, Run Movie, Run Movie | Total Price: $3000.00
+Dec 11, 2024 8:45:43 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 57 | Total Tickets Sold: 57
+Dec 11, 2024 8:45:43 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:45:43 PM TicketSystemLogger info
+INFO: Vendor 2 added 4 ticket(s) for Love movie (Price: $500.00)
+Dec 11, 2024 8:45:43 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 4 | Total Tickets Added: 61 | Total Tickets Sold: 57
+Dec 11, 2024 8:45:43 PM TicketSystemLogger info
+INFO: Customer 3 purchased 3 ticket(s) for events: Love movie, Love movie, Love movie | Total Price: $1500.00
+Dec 11, 2024 8:45:43 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 61 | Total Tickets Sold: 60
+Dec 11, 2024 8:45:43 PM TicketSystemLogger info
+INFO: Customer 6 requested 3 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 8:45:43 PM TicketSystemLogger info
+INFO: Customer 6 purchased 1 ticket(s) for events: Love movie | Total Price: $500.00
+Dec 11, 2024 8:45:43 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 61 | Total Tickets Sold: 61
+Dec 11, 2024 8:45:43 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:45:50 PM TicketSystemLogger info
+INFO: Vendor 1 added 3 ticket(s) for Run Movie (Price: $1000.00)
+Dec 11, 2024 8:45:50 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 64 | Total Tickets Sold: 61
+Dec 11, 2024 8:45:50 PM TicketSystemLogger info
+INFO: Customer 5 purchased 3 ticket(s) for events: Run Movie, Run Movie, Run Movie | Total Price: $3000.00
+Dec 11, 2024 8:45:50 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 64 | Total Tickets Sold: 64
+Dec 11, 2024 8:45:50 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:45:50 PM TicketSystemLogger info
+INFO: Vendor 2 added 3 ticket(s) for Love movie (Price: $500.00)
+Dec 11, 2024 8:45:50 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 67 | Total Tickets Sold: 64
+Dec 11, 2024 8:45:50 PM TicketSystemLogger info
+INFO: Customer 9 purchased 3 ticket(s) for events: Love movie, Love movie, Love movie | Total Price: $1500.00
+Dec 11, 2024 8:45:50 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 67 | Total Tickets Sold: 67
+Dec 11, 2024 8:45:50 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:45:58 PM TicketSystemLogger info
+INFO: Vendor 1 added 2 ticket(s) for Run Movie (Price: $1000.00)
+Dec 11, 2024 8:45:58 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 69 | Total Tickets Sold: 67
+Dec 11, 2024 8:45:58 PM TicketSystemLogger info
+INFO: Customer 13 requested 3 tickets, but only 2 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 8:45:58 PM TicketSystemLogger info
+INFO: Customer 13 purchased 2 ticket(s) for events: Run Movie, Run Movie | Total Price: $2000.00
+Dec 11, 2024 8:45:58 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 69 | Total Tickets Sold: 69
+Dec 11, 2024 8:45:58 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:45:58 PM TicketSystemLogger info
+INFO: Vendor 2 added 4 ticket(s) for Love movie (Price: $500.00)
+Dec 11, 2024 8:45:58 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 4 | Total Tickets Added: 73 | Total Tickets Sold: 69
+Dec 11, 2024 8:45:58 PM TicketSystemLogger info
+INFO: Customer 17 purchased 3 ticket(s) for events: Love movie, Love movie, Love movie | Total Price: $1500.00
+Dec 11, 2024 8:45:58 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 73 | Total Tickets Sold: 72
+Dec 11, 2024 8:45:58 PM TicketSystemLogger info
+INFO: Customer 16 requested 3 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 8:45:58 PM TicketSystemLogger info
+INFO: Customer 16 purchased 1 ticket(s) for events: Love movie | Total Price: $500.00
+Dec 11, 2024 8:45:58 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 73 | Total Tickets Sold: 73
+Dec 11, 2024 8:45:58 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 8:46:05 PM TicketSystemLogger info
+INFO: Vendor 1 added 2 ticket(s) for Run Movie (Price: $1000.00)
+Dec 11, 2024 8:46:05 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 75 | Total Tickets Sold: 73
+Dec 11, 2024 8:46:05 PM TicketSystemLogger info
+INFO: Customer 18 purchased 2 ticket(s) for events: Run Movie, Run Movie | Total Price: $2000.00
+Dec 11, 2024 8:46:05 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 75 | Total Tickets Sold: 75
+Dec 11, 2024 8:46:05 PM TicketSystemLogger info
+INFO: All tickets have been sold, and the ticket limit has been reached. Stopping the system...
+Dec 11, 2024 8:46:05 PM TicketSystemLogger info
+INFO: System Stopped - Total Statistics:
+Dec 11, 2024 8:46:05 PM TicketSystemLogger info
+INFO: Total Tickets Added to Pool: 75
+Dec 11, 2024 8:46:05 PM TicketSystemLogger info
+INFO: Total Tickets Sold: 75
+Dec 11, 2024 8:46:05 PM TicketSystemLogger info
+INFO: System stopped. All operations halted.
+Dec 11, 2024 8:59:13 PM TicketSystemLogger info
+INFO: Exiting the system. Application is stopping.
+Dec 11, 2024 9:01:41 PM TicketSystemLogger info
+INFO: System Configured Successfully - Configuration Details: Total Tickets: 60, Max Ticket Capacity: 70, Ticket Release Rate: 3, Customer Retrieval Rate: 2
+Dec 11, 2024 9:01:41 PM TicketSystemLogger info
+INFO: Event Configuration:
+Dec 11, 2024 9:01:41 PM TicketSystemLogger info
+INFO: Event: Love Movie | Ticket Price: $500.00
+Dec 11, 2024 9:01:41 PM TicketSystemLogger info
+INFO: Event: Long Movie | Ticket Price: $1000.00
+Dec 11, 2024 9:01:41 PM TicketSystemLogger info
+INFO: Event: Car Movie | Ticket Price: $200.00
+Dec 11, 2024 9:02:22 PM TicketSystemLogger info
+INFO: System started. Vendors and customers are now active.
+Dec 11, 2024 9:02:22 PM TicketSystemLogger info
+INFO: Vendor 2 added 2 ticket(s) for Love Movie (Price: $500.00)
+Dec 11, 2024 9:02:22 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 2 | Total Tickets Sold: 0
+Dec 11, 2024 9:02:22 PM TicketSystemLogger info
+INFO: Vendor 1 added 2 ticket(s) for Car Movie (Price: $200.00)
+Dec 11, 2024 9:02:22 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 4 | Total Tickets Added: 4 | Total Tickets Sold: 0
+Dec 11, 2024 9:02:22 PM TicketSystemLogger info
+INFO: Vendor 3 added 3 ticket(s) for Long Movie (Price: $1000.00)
+Dec 11, 2024 9:02:22 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 7 | Total Tickets Added: 7 | Total Tickets Sold: 0
+Dec 11, 2024 9:02:22 PM TicketSystemLogger info
+INFO: Customer 4 purchased 2 ticket(s) for events: Love Movie, Love Movie | Total Price: $1000.00
+Dec 11, 2024 9:02:22 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 5 | Total Tickets Added: 7 | Total Tickets Sold: 2
+Dec 11, 2024 9:02:23 PM TicketSystemLogger info
+INFO: Customer 5 purchased 2 ticket(s) for events: Car Movie, Car Movie | Total Price: $400.00
+Dec 11, 2024 9:02:23 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 7 | Total Tickets Sold: 4
+Dec 11, 2024 9:02:23 PM TicketSystemLogger info
+INFO: Customer 3 purchased 2 ticket(s) for events: Long Movie, Long Movie | Total Price: $2000.00
+Dec 11, 2024 9:02:23 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 7 | Total Tickets Sold: 6
+Dec 11, 2024 9:02:23 PM TicketSystemLogger info
+INFO: Customer 1 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 9:02:23 PM TicketSystemLogger info
+INFO: Customer 1 purchased 1 ticket(s) for events: Long Movie | Total Price: $1000.00
+Dec 11, 2024 9:02:23 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 7 | Total Tickets Sold: 7
+Dec 11, 2024 9:02:23 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 9:02:32 PM TicketSystemLogger info
+INFO: Vendor 3 added 2 ticket(s) for Long Movie (Price: $1000.00)
+Dec 11, 2024 9:02:32 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 9 | Total Tickets Sold: 7
+Dec 11, 2024 9:02:32 PM TicketSystemLogger info
+INFO: Vendor 2 added 3 ticket(s) for Love Movie (Price: $500.00)
+Dec 11, 2024 9:02:32 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 5 | Total Tickets Added: 12 | Total Tickets Sold: 7
+Dec 11, 2024 9:02:32 PM TicketSystemLogger info
+INFO: Vendor 1 added 2 ticket(s) for Car Movie (Price: $200.00)
+Dec 11, 2024 9:02:32 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 7 | Total Tickets Added: 14 | Total Tickets Sold: 7
+Dec 11, 2024 9:02:32 PM TicketSystemLogger info
+INFO: Customer 8 purchased 2 ticket(s) for events: Long Movie, Long Movie | Total Price: $2000.00
+Dec 11, 2024 9:02:32 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 5 | Total Tickets Added: 14 | Total Tickets Sold: 9
+Dec 11, 2024 9:02:33 PM TicketSystemLogger info
+INFO: Customer 9 purchased 2 ticket(s) for events: Love Movie, Love Movie | Total Price: $1000.00
+Dec 11, 2024 9:02:33 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 14 | Total Tickets Sold: 11
+Dec 11, 2024 9:02:33 PM TicketSystemLogger info
+INFO: Customer 10 purchased 2 ticket(s) for events: Love Movie, Car Movie | Total Price: $700.00
+Dec 11, 2024 9:02:33 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 14 | Total Tickets Sold: 13
+Dec 11, 2024 9:02:33 PM TicketSystemLogger info
+INFO: Customer 12 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 9:02:33 PM TicketSystemLogger info
+INFO: Customer 12 purchased 1 ticket(s) for events: Car Movie | Total Price: $200.00
+Dec 11, 2024 9:02:33 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 14 | Total Tickets Sold: 14
+Dec 11, 2024 9:02:33 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 9:02:42 PM TicketSystemLogger info
+INFO: Vendor 3 added 3 ticket(s) for Long Movie (Price: $1000.00)
+Dec 11, 2024 9:02:42 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 17 | Total Tickets Sold: 14
+Dec 11, 2024 9:02:42 PM TicketSystemLogger info
+INFO: Vendor 2 added 3 ticket(s) for Love Movie (Price: $500.00)
+Dec 11, 2024 9:02:42 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 6 | Total Tickets Added: 20 | Total Tickets Sold: 14
+Dec 11, 2024 9:02:42 PM TicketSystemLogger info
+INFO: Vendor 1 added 2 ticket(s) for Car Movie (Price: $200.00)
+Dec 11, 2024 9:02:42 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 8 | Total Tickets Added: 22 | Total Tickets Sold: 14
+Dec 11, 2024 9:02:42 PM TicketSystemLogger info
+INFO: Customer 16 purchased 2 ticket(s) for events: Long Movie, Long Movie | Total Price: $2000.00
+Dec 11, 2024 9:02:42 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 6 | Total Tickets Added: 22 | Total Tickets Sold: 16
+Dec 11, 2024 9:02:43 PM TicketSystemLogger info
+INFO: Customer 15 purchased 2 ticket(s) for events: Long Movie, Love Movie | Total Price: $1500.00
+Dec 11, 2024 9:02:43 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 4 | Total Tickets Added: 22 | Total Tickets Sold: 18
+Dec 11, 2024 9:02:43 PM TicketSystemLogger info
+INFO: Customer 19 purchased 2 ticket(s) for events: Love Movie, Love Movie | Total Price: $1000.00
+Dec 11, 2024 9:02:43 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 22 | Total Tickets Sold: 20
+Dec 11, 2024 9:02:43 PM TicketSystemLogger info
+INFO: Customer 17 purchased 2 ticket(s) for events: Car Movie, Car Movie | Total Price: $400.00
+Dec 11, 2024 9:02:43 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 22 | Total Tickets Sold: 22
+Dec 11, 2024 9:02:43 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 9:02:52 PM TicketSystemLogger info
+INFO: Vendor 1 added 2 ticket(s) for Car Movie (Price: $200.00)
+Dec 11, 2024 9:02:52 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 24 | Total Tickets Sold: 22
+Dec 11, 2024 9:02:52 PM TicketSystemLogger info
+INFO: Vendor 3 added 3 ticket(s) for Long Movie (Price: $1000.00)
+Dec 11, 2024 9:02:52 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 5 | Total Tickets Added: 27 | Total Tickets Sold: 22
+Dec 11, 2024 9:02:52 PM TicketSystemLogger info
+INFO: Vendor 2 added 3 ticket(s) for Love Movie (Price: $500.00)
+Dec 11, 2024 9:02:52 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 8 | Total Tickets Added: 30 | Total Tickets Sold: 22
+Dec 11, 2024 9:02:52 PM TicketSystemLogger info
+INFO: Customer 3 purchased 2 ticket(s) for events: Car Movie, Car Movie | Total Price: $400.00
+Dec 11, 2024 9:02:52 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 6 | Total Tickets Added: 30 | Total Tickets Sold: 24
+Dec 11, 2024 9:02:53 PM TicketSystemLogger info
+INFO: Customer 2 purchased 2 ticket(s) for events: Long Movie, Long Movie | Total Price: $2000.00
+Dec 11, 2024 9:02:53 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 4 | Total Tickets Added: 30 | Total Tickets Sold: 26
+Dec 11, 2024 9:02:53 PM TicketSystemLogger info
+INFO: Customer 7 purchased 2 ticket(s) for events: Long Movie, Love Movie | Total Price: $1500.00
+Dec 11, 2024 9:02:53 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 30 | Total Tickets Sold: 28
+Dec 11, 2024 9:02:53 PM TicketSystemLogger info
+INFO: Customer 6 purchased 2 ticket(s) for events: Love Movie, Love Movie | Total Price: $1000.00
+Dec 11, 2024 9:02:53 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 30 | Total Tickets Sold: 30
+Dec 11, 2024 9:02:53 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 9:03:02 PM TicketSystemLogger info
+INFO: Vendor 2 added 2 ticket(s) for Love Movie (Price: $500.00)
+Dec 11, 2024 9:03:02 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 32 | Total Tickets Sold: 30
+Dec 11, 2024 9:03:02 PM TicketSystemLogger info
+INFO: Vendor 3 added 3 ticket(s) for Long Movie (Price: $1000.00)
+Dec 11, 2024 9:03:02 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 5 | Total Tickets Added: 35 | Total Tickets Sold: 30
+Dec 11, 2024 9:03:02 PM TicketSystemLogger info
+INFO: Vendor 1 added 2 ticket(s) for Car Movie (Price: $200.00)
+Dec 11, 2024 9:03:02 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 7 | Total Tickets Added: 37 | Total Tickets Sold: 30
+Dec 11, 2024 9:03:02 PM TicketSystemLogger info
+INFO: Customer 11 purchased 2 ticket(s) for events: Love Movie, Love Movie | Total Price: $1000.00
+Dec 11, 2024 9:03:02 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 5 | Total Tickets Added: 37 | Total Tickets Sold: 32
+Dec 11, 2024 9:03:03 PM TicketSystemLogger info
+INFO: Customer 12 purchased 2 ticket(s) for events: Long Movie, Long Movie | Total Price: $2000.00
+Dec 11, 2024 9:03:03 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 37 | Total Tickets Sold: 34
+Dec 11, 2024 9:03:03 PM TicketSystemLogger info
+INFO: Customer 14 purchased 2 ticket(s) for events: Long Movie, Car Movie | Total Price: $1200.00
+Dec 11, 2024 9:03:03 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 37 | Total Tickets Sold: 36
+Dec 11, 2024 9:03:03 PM TicketSystemLogger info
+INFO: Customer 13 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 9:03:03 PM TicketSystemLogger info
+INFO: Customer 13 purchased 1 ticket(s) for events: Car Movie | Total Price: $200.00
+Dec 11, 2024 9:03:03 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 37 | Total Tickets Sold: 37
+Dec 11, 2024 9:03:03 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 9:03:12 PM TicketSystemLogger info
+INFO: Vendor 2 added 3 ticket(s) for Love Movie (Price: $500.00)
+Dec 11, 2024 9:03:12 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 40 | Total Tickets Sold: 37
+Dec 11, 2024 9:03:12 PM TicketSystemLogger info
+INFO: Vendor 3 added 2 ticket(s) for Long Movie (Price: $1000.00)
+Dec 11, 2024 9:03:12 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 5 | Total Tickets Added: 42 | Total Tickets Sold: 37
+Dec 11, 2024 9:03:12 PM TicketSystemLogger info
+INFO: Vendor 1 added 2 ticket(s) for Car Movie (Price: $200.00)
+Dec 11, 2024 9:03:12 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 7 | Total Tickets Added: 44 | Total Tickets Sold: 37
+Dec 11, 2024 9:03:12 PM TicketSystemLogger info
+INFO: Customer 5 purchased 2 ticket(s) for events: Love Movie, Love Movie | Total Price: $1000.00
+Dec 11, 2024 9:03:12 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 5 | Total Tickets Added: 44 | Total Tickets Sold: 39
+Dec 11, 2024 9:03:13 PM TicketSystemLogger info
+INFO: Customer 18 purchased 2 ticket(s) for events: Love Movie, Long Movie | Total Price: $1500.00
+Dec 11, 2024 9:03:13 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 44 | Total Tickets Sold: 41
+Dec 11, 2024 9:03:13 PM TicketSystemLogger info
+INFO: Customer 17 purchased 2 ticket(s) for events: Long Movie, Car Movie | Total Price: $1200.00
+Dec 11, 2024 9:03:13 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 44 | Total Tickets Sold: 43
+Dec 11, 2024 9:03:13 PM TicketSystemLogger info
+INFO: Customer 4 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 9:03:13 PM TicketSystemLogger info
+INFO: Customer 4 purchased 1 ticket(s) for events: Car Movie | Total Price: $200.00
+Dec 11, 2024 9:03:13 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 44 | Total Tickets Sold: 44
+Dec 11, 2024 9:03:13 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 9:03:22 PM TicketSystemLogger info
+INFO: Vendor 1 added 3 ticket(s) for Car Movie (Price: $200.00)
+Dec 11, 2024 9:03:22 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 47 | Total Tickets Sold: 44
+Dec 11, 2024 9:03:22 PM TicketSystemLogger info
+INFO: Vendor 3 added 2 ticket(s) for Long Movie (Price: $1000.00)
+Dec 11, 2024 9:03:22 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 5 | Total Tickets Added: 49 | Total Tickets Sold: 44
+Dec 11, 2024 9:03:22 PM TicketSystemLogger info
+INFO: Vendor 2 added 3 ticket(s) for Love Movie (Price: $500.00)
+Dec 11, 2024 9:03:22 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 8 | Total Tickets Added: 52 | Total Tickets Sold: 44
+Dec 11, 2024 9:03:22 PM TicketSystemLogger info
+INFO: Customer 7 purchased 2 ticket(s) for events: Car Movie, Car Movie | Total Price: $400.00
+Dec 11, 2024 9:03:22 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 6 | Total Tickets Added: 52 | Total Tickets Sold: 46
+Dec 11, 2024 9:03:23 PM TicketSystemLogger info
+INFO: Customer 10 purchased 2 ticket(s) for events: Car Movie, Long Movie | Total Price: $1200.00
+Dec 11, 2024 9:03:23 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 4 | Total Tickets Added: 52 | Total Tickets Sold: 48
+Dec 11, 2024 9:03:23 PM TicketSystemLogger info
+INFO: Customer 1 purchased 2 ticket(s) for events: Long Movie, Love Movie | Total Price: $1500.00
+Dec 11, 2024 9:03:23 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 52 | Total Tickets Sold: 50
+Dec 11, 2024 9:03:23 PM TicketSystemLogger info
+INFO: Customer 8 purchased 2 ticket(s) for events: Love Movie, Love Movie | Total Price: $1000.00
+Dec 11, 2024 9:03:23 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 52 | Total Tickets Sold: 52
+Dec 11, 2024 9:03:23 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 9:03:32 PM TicketSystemLogger info
+INFO: Vendor 1 added 2 ticket(s) for Car Movie (Price: $200.00)
+Dec 11, 2024 9:03:32 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 54 | Total Tickets Sold: 52
+Dec 11, 2024 9:03:32 PM TicketSystemLogger info
+INFO: Vendor 3 added 3 ticket(s) for Long Movie (Price: $1000.00)
+Dec 11, 2024 9:03:32 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 5 | Total Tickets Added: 57 | Total Tickets Sold: 52
+Dec 11, 2024 9:03:32 PM TicketSystemLogger info
+INFO: Vendor 2 added 2 ticket(s) for Love Movie (Price: $500.00)
+Dec 11, 2024 9:03:32 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 7 | Total Tickets Added: 59 | Total Tickets Sold: 52
+Dec 11, 2024 9:03:32 PM TicketSystemLogger info
+INFO: Customer 14 purchased 2 ticket(s) for events: Car Movie, Car Movie | Total Price: $400.00
+Dec 11, 2024 9:03:32 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 5 | Total Tickets Added: 59 | Total Tickets Sold: 54
+Dec 11, 2024 9:03:33 PM TicketSystemLogger info
+INFO: Customer 13 purchased 2 ticket(s) for events: Long Movie, Long Movie | Total Price: $2000.00
+Dec 11, 2024 9:03:33 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 59 | Total Tickets Sold: 56
+Dec 11, 2024 9:03:33 PM TicketSystemLogger info
+INFO: Customer 15 purchased 2 ticket(s) for events: Long Movie, Love Movie | Total Price: $1500.00
+Dec 11, 2024 9:03:33 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 59 | Total Tickets Sold: 58
+Dec 11, 2024 9:03:33 PM TicketSystemLogger info
+INFO: Customer 19 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 9:03:33 PM TicketSystemLogger info
+INFO: Customer 19 purchased 1 ticket(s) for events: Love Movie | Total Price: $500.00
+Dec 11, 2024 9:03:33 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 59 | Total Tickets Sold: 59
+Dec 11, 2024 9:03:33 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 9:03:42 PM TicketSystemLogger info
+INFO: Vendor 3 added 1 ticket(s) for Long Movie (Price: $1000.00)
+Dec 11, 2024 9:03:42 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 60 | Total Tickets Sold: 59
+Dec 11, 2024 9:03:42 PM TicketSystemLogger info
+INFO: Customer 17 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 9:03:42 PM TicketSystemLogger info
+INFO: Customer 17 purchased 1 ticket(s) for events: Long Movie | Total Price: $1000.00
+Dec 11, 2024 9:03:42 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 60 | Total Tickets Sold: 60
+Dec 11, 2024 9:03:42 PM TicketSystemLogger info
+INFO: All tickets have been sold, and the ticket limit has been reached. Stopping the system...
+Dec 11, 2024 9:03:42 PM TicketSystemLogger info
+INFO: System Stopped - Total Statistics:
+Dec 11, 2024 9:03:42 PM TicketSystemLogger info
+INFO: Total Tickets Added to Pool: 60
+Dec 11, 2024 9:03:42 PM TicketSystemLogger info
+INFO: Total Tickets Sold: 60
+Dec 11, 2024 9:03:42 PM TicketSystemLogger info
+INFO: System stopped. All operations halted.
+Dec 11, 2024 9:03:58 PM TicketSystemLogger info
+INFO: Ticket handling system has been reset and is ready to start again.
+
+Dec 11, 2024 9:05:25 PM TicketSystemLogger info
+INFO: System Configured Successfully - Configuration Details: Total Tickets: 20, Max Ticket Capacity: 25, Ticket Release Rate: 3, Customer Retrieval Rate: 2
+Dec 11, 2024 9:05:25 PM TicketSystemLogger info
+INFO: Event Configuration:
+Dec 11, 2024 9:05:25 PM TicketSystemLogger info
+INFO: Event: Friends TV Series | Ticket Price: $600.00
+Dec 11, 2024 9:05:25 PM TicketSystemLogger info
+INFO: Event: Run Film | Ticket Price: $500.00
+Dec 11, 2024 9:05:41 PM TicketSystemLogger info
+INFO: Vendor 2 added 2 ticket(s) for Run Film (Price: $500.00)
+Dec 11, 2024 9:05:41 PM TicketSystemLogger info
+INFO: System started. Vendors and customers are now active.
+Dec 11, 2024 9:05:41 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 2 | Total Tickets Sold: 0
+Dec 11, 2024 9:05:41 PM TicketSystemLogger info
+INFO: Customer 2 purchased 2 ticket(s) for events: Run Film, Run Film | Total Price: $1000.00
+Dec 11, 2024 9:05:41 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 2 | Total Tickets Sold: 2
+Dec 11, 2024 9:05:41 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 9:05:41 PM TicketSystemLogger info
+INFO: Vendor 1 added 2 ticket(s) for Friends TV Series (Price: $600.00)
+Dec 11, 2024 9:05:41 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 4 | Total Tickets Sold: 2
+Dec 11, 2024 9:05:41 PM TicketSystemLogger info
+INFO: Customer 3 purchased 2 ticket(s) for events: Friends TV Series, Friends TV Series | Total Price: $1200.00
+Dec 11, 2024 9:05:41 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 4 | Total Tickets Sold: 4
+Dec 11, 2024 9:05:41 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 9:05:51 PM TicketSystemLogger info
+INFO: Vendor 2 added 3 ticket(s) for Run Film (Price: $500.00)
+Dec 11, 2024 9:05:51 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 7 | Total Tickets Sold: 4
+Dec 11, 2024 9:05:51 PM TicketSystemLogger info
+INFO: Customer 5 purchased 2 ticket(s) for events: Run Film, Run Film | Total Price: $1000.00
+Dec 11, 2024 9:05:51 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 7 | Total Tickets Sold: 6
+Dec 11, 2024 9:05:51 PM TicketSystemLogger info
+INFO: Customer 6 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 9:05:51 PM TicketSystemLogger info
+INFO: Customer 6 purchased 1 ticket(s) for events: Run Film | Total Price: $500.00
+Dec 11, 2024 9:05:51 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 7 | Total Tickets Sold: 7
+Dec 11, 2024 9:05:51 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 9:05:51 PM TicketSystemLogger info
+INFO: Vendor 1 added 3 ticket(s) for Friends TV Series (Price: $600.00)
+Dec 11, 2024 9:05:51 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 10 | Total Tickets Sold: 7
+Dec 11, 2024 9:05:51 PM TicketSystemLogger info
+INFO: Customer 11 purchased 2 ticket(s) for events: Friends TV Series, Friends TV Series | Total Price: $1200.00
+Dec 11, 2024 9:05:51 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 10 | Total Tickets Sold: 9
+Dec 11, 2024 9:05:51 PM TicketSystemLogger info
+INFO: Customer 9 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 9:05:51 PM TicketSystemLogger info
+INFO: Customer 9 purchased 1 ticket(s) for events: Friends TV Series | Total Price: $600.00
+Dec 11, 2024 9:05:51 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 10 | Total Tickets Sold: 10
+Dec 11, 2024 9:05:51 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 9:06:01 PM TicketSystemLogger info
+INFO: Vendor 2 added 2 ticket(s) for Run Film (Price: $500.00)
+Dec 11, 2024 9:06:01 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 12 | Total Tickets Sold: 10
+Dec 11, 2024 9:06:01 PM TicketSystemLogger info
+INFO: Customer 13 purchased 2 ticket(s) for events: Run Film, Run Film | Total Price: $1000.00
+Dec 11, 2024 9:06:01 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 12 | Total Tickets Sold: 12
+Dec 11, 2024 9:06:01 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 9:06:01 PM TicketSystemLogger info
+INFO: Vendor 1 added 3 ticket(s) for Friends TV Series (Price: $600.00)
+Dec 11, 2024 9:06:01 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 15 | Total Tickets Sold: 12
+Dec 11, 2024 9:06:01 PM TicketSystemLogger info
+INFO: Customer 8 purchased 2 ticket(s) for events: Friends TV Series, Friends TV Series | Total Price: $1200.00
+Dec 11, 2024 9:06:01 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 15 | Total Tickets Sold: 14
+Dec 11, 2024 9:06:01 PM TicketSystemLogger info
+INFO: Customer 14 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 9:06:01 PM TicketSystemLogger info
+INFO: Customer 14 purchased 1 ticket(s) for events: Friends TV Series | Total Price: $600.00
+Dec 11, 2024 9:06:01 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 15 | Total Tickets Sold: 15
+Dec 11, 2024 9:06:01 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 9:06:11 PM TicketSystemLogger info
+INFO: Vendor 2 added 2 ticket(s) for Run Film (Price: $500.00)
+Dec 11, 2024 9:06:11 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 17 | Total Tickets Sold: 15
+Dec 11, 2024 9:06:11 PM TicketSystemLogger info
+INFO: Customer 12 purchased 2 ticket(s) for events: Run Film, Run Film | Total Price: $1000.00
+Dec 11, 2024 9:06:11 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 17 | Total Tickets Sold: 17
+Dec 11, 2024 9:06:11 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 9:06:11 PM TicketSystemLogger info
+INFO: Vendor 1 added 3 ticket(s) for Friends TV Series (Price: $600.00)
+Dec 11, 2024 9:06:11 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 20 | Total Tickets Sold: 17
+Dec 11, 2024 9:06:11 PM TicketSystemLogger info
+INFO: Customer 16 purchased 2 ticket(s) for events: Friends TV Series, Friends TV Series | Total Price: $1200.00
+Dec 11, 2024 9:06:11 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 20 | Total Tickets Sold: 19
+Dec 11, 2024 9:06:11 PM TicketSystemLogger info
+INFO: Customer 19 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 9:06:11 PM TicketSystemLogger info
+INFO: Customer 19 purchased 1 ticket(s) for events: Friends TV Series | Total Price: $600.00
+Dec 11, 2024 9:06:11 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 20 | Total Tickets Sold: 20
+Dec 11, 2024 9:06:11 PM TicketSystemLogger info
+INFO: All tickets have been sold, and the ticket limit has been reached. Stopping the system...
+Dec 11, 2024 9:06:11 PM TicketSystemLogger info
+INFO: System Stopped - Total Statistics:
+Dec 11, 2024 9:06:11 PM TicketSystemLogger info
+INFO: Total Tickets Added to Pool: 20
+Dec 11, 2024 9:06:11 PM TicketSystemLogger info
+INFO: Total Tickets Sold: 20
+Dec 11, 2024 9:06:11 PM TicketSystemLogger info
+INFO: System stopped. All operations halted.
+Dec 11, 2024 9:06:34 PM TicketSystemLogger info
+INFO: Ticket handling system has been reset and is ready to start again.
+
+Dec 11, 2024 9:06:46 PM TicketSystemLogger info
+INFO: Vendor 1 added 2 ticket(s) for Friends TV Series (Price: $600.00)
+Dec 11, 2024 9:06:46 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 2 | Total Tickets Sold: 0
+Dec 11, 2024 9:06:46 PM TicketSystemLogger info
+INFO: System started. Vendors and customers are now active.
+Dec 11, 2024 9:06:46 PM TicketSystemLogger info
+INFO: Vendor 2 added 2 ticket(s) for Run Film (Price: $500.00)
+Dec 11, 2024 9:06:46 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 4 | Total Tickets Added: 4 | Total Tickets Sold: 0
+Dec 11, 2024 9:06:46 PM TicketSystemLogger info
+INFO: Customer 1 purchased 2 ticket(s) for events: Friends TV Series, Friends TV Series | Total Price: $1200.00
+Dec 11, 2024 9:06:46 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 4 | Total Tickets Sold: 2
+Dec 11, 2024 9:06:46 PM TicketSystemLogger info
+INFO: Customer 2 purchased 2 ticket(s) for events: Run Film, Run Film | Total Price: $1000.00
+Dec 11, 2024 9:06:46 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 4 | Total Tickets Sold: 4
+Dec 11, 2024 9:06:46 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 9:06:56 PM TicketSystemLogger info
+INFO: Vendor 1 added 3 ticket(s) for Friends TV Series (Price: $600.00)
+Dec 11, 2024 9:06:56 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 7 | Total Tickets Sold: 4
+Dec 11, 2024 9:06:56 PM TicketSystemLogger info
+INFO: Vendor 2 added 3 ticket(s) for Run Film (Price: $500.00)
+Dec 11, 2024 9:06:56 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 6 | Total Tickets Added: 10 | Total Tickets Sold: 4
+Dec 11, 2024 9:06:56 PM TicketSystemLogger info
+INFO: Customer 5 purchased 2 ticket(s) for events: Friends TV Series, Friends TV Series | Total Price: $1200.00
+Dec 11, 2024 9:06:56 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 4 | Total Tickets Added: 10 | Total Tickets Sold: 6
+Dec 11, 2024 9:06:56 PM TicketSystemLogger info
+INFO: Customer 6 purchased 2 ticket(s) for events: Friends TV Series, Run Film | Total Price: $1100.00
+Dec 11, 2024 9:06:56 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 10 | Total Tickets Sold: 8
+Dec 11, 2024 9:06:56 PM TicketSystemLogger info
+INFO: Customer 7 purchased 2 ticket(s) for events: Run Film, Run Film | Total Price: $1000.00
+Dec 11, 2024 9:06:56 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 10 | Total Tickets Sold: 10
+Dec 11, 2024 9:06:56 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 9:06:58 PM TicketSystemLogger info
+INFO: System Stopped - Total Statistics:
+Dec 11, 2024 9:06:58 PM TicketSystemLogger info
+INFO: Total Tickets Added to Pool: 10
+Dec 11, 2024 9:06:58 PM TicketSystemLogger info
+INFO: Total Tickets Sold: 10
+Dec 11, 2024 9:06:58 PM TicketSystemLogger info
+INFO: System stopped. All operations halted.
+Dec 11, 2024 9:07:04 PM TicketSystemLogger info
+INFO: Vendor 1 added 2 ticket(s) for Friends TV Series (Price: $600.00)
+Dec 11, 2024 9:07:04 PM TicketSystemLogger info
+INFO: System started. Vendors and customers are now active.
+Dec 11, 2024 9:07:04 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 12 | Total Tickets Sold: 10
+Dec 11, 2024 9:07:04 PM TicketSystemLogger info
+INFO: Vendor 2 added 3 ticket(s) for Run Film (Price: $500.00)
+Dec 11, 2024 9:07:04 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 5 | Total Tickets Added: 15 | Total Tickets Sold: 10
+Dec 11, 2024 9:07:04 PM TicketSystemLogger info
+INFO: Customer 1 purchased 2 ticket(s) for events: Friends TV Series, Friends TV Series | Total Price: $1200.00
+Dec 11, 2024 9:07:04 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 3 | Total Tickets Added: 15 | Total Tickets Sold: 12
+Dec 11, 2024 9:07:04 PM TicketSystemLogger info
+INFO: Customer 2 purchased 2 ticket(s) for events: Run Film, Run Film | Total Price: $1000.00
+Dec 11, 2024 9:07:04 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 15 | Total Tickets Sold: 14
+Dec 11, 2024 9:07:04 PM TicketSystemLogger info
+INFO: Customer 3 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 9:07:04 PM TicketSystemLogger info
+INFO: Customer 3 purchased 1 ticket(s) for events: Run Film | Total Price: $500.00
+Dec 11, 2024 9:07:04 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 15 | Total Tickets Sold: 15
+Dec 11, 2024 9:07:04 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 9:07:14 PM TicketSystemLogger info
+INFO: Vendor 2 added 2 ticket(s) for Run Film (Price: $500.00)
+Dec 11, 2024 9:07:14 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 17 | Total Tickets Sold: 15
+Dec 11, 2024 9:07:14 PM TicketSystemLogger info
+INFO: Vendor 1 added 2 ticket(s) for Friends TV Series (Price: $600.00)
+Dec 11, 2024 9:07:14 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 4 | Total Tickets Added: 19 | Total Tickets Sold: 15
+Dec 11, 2024 9:07:14 PM TicketSystemLogger info
+INFO: Customer 5 purchased 2 ticket(s) for events: Run Film, Run Film | Total Price: $1000.00
+Dec 11, 2024 9:07:14 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 2 | Total Tickets Added: 19 | Total Tickets Sold: 17
+Dec 11, 2024 9:07:14 PM TicketSystemLogger info
+INFO: Customer 6 purchased 2 ticket(s) for events: Friends TV Series, Friends TV Series | Total Price: $1200.00
+Dec 11, 2024 9:07:14 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 19 | Total Tickets Sold: 19
+Dec 11, 2024 9:07:14 PM TicketSystemLogger info
+INFO: Customers are waiting for tickets to become available.
+Dec 11, 2024 9:07:24 PM TicketSystemLogger info
+INFO: Vendor 2 added 1 ticket(s) for Run Film (Price: $500.00)
+Dec 11, 2024 9:07:24 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 1 | Total Tickets Added: 20 | Total Tickets Sold: 19
+Dec 11, 2024 9:07:24 PM TicketSystemLogger info
+INFO: Customer 19 requested 2 tickets, but only 1 tickets available in pool. Purchasing available tickets.
+Dec 11, 2024 9:07:24 PM TicketSystemLogger info
+INFO: Customer 19 purchased 1 ticket(s) for events: Run Film | Total Price: $500.00
+Dec 11, 2024 9:07:24 PM TicketSystemLogger info
+INFO: Ticket Pool Status - Current Tickets: 0 | Total Tickets Added: 20 | Total Tickets Sold: 20
+Dec 11, 2024 9:07:24 PM TicketSystemLogger info
+INFO: All tickets have been sold, and the ticket limit has been reached. Stopping the system...
+Dec 11, 2024 9:07:24 PM TicketSystemLogger info
+INFO: System Stopped - Total Statistics:
+Dec 11, 2024 9:07:24 PM TicketSystemLogger info
+INFO: Total Tickets Added to Pool: 20
+Dec 11, 2024 9:07:24 PM TicketSystemLogger info
+INFO: Total Tickets Sold: 20
+Dec 11, 2024 9:07:24 PM TicketSystemLogger info
+INFO: System stopped. All operations halted.
+Dec 11, 2024 9:07:29 PM TicketSystemLogger info
+INFO: Ticket handling system has been reset and is ready to start again.
+
+Dec 11, 2024 9:07:39 PM TicketSystemLogger info
+INFO: Exiting the system. Application is stopping.
