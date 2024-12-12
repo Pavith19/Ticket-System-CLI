@@ -139,14 +139,6 @@ java -cp ".:lib/mysql-connector-java.jar" TicketSystem
 - Graceful error management
 - Comprehensive logging of system events
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch
-3. Commit changes
-4. Push to the branch
-5. Create a pull request
-
 ## 📝 License
 
 This project is licensed under the MIT License.
