@@ -5,8 +5,7 @@
 The Real-Time Ticket Handling System is a sophisticated, multi-threaded Java application that simulates a dynamic ticket sales environment. Designed to demonstrate concurrent programming principles, this system allows multiple vendors to add tickets and multiple customers to purchase tickets in real-time, with robust synchronization and transaction logging.
 
 ![Java](https://img.shields.io/badge/Java-17+-blue?logo=java&logoColor=white)
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![Coverage](https://img.shields.io/badge/coverage-85%25-yellow)
+![Coverage](https://img.shields.io/badge/coverage-100%25-yellow)
 
 ## 🌟 Key Features
 
