@@ -6,7 +6,7 @@ The Real-Time Ticket Handling System is a sophisticated, multi-threaded Java app
 
 ![Java](https://img.shields.io/badge/Java-17+-blue?logo=java&logoColor=white)
 ![Coverage](https://img.shields.io/badge/coverage-100%25-yellow)
-![GitHub last commit](https://img.shields.io/github/last-commit/Pavith19/Ticket-System-CLI/main)
+![GitHub last commit](https://img.shields.io/github/last-commit/Pavith19/Ticket-System-CLI)
 
 ## 🌟 Key Features
 
