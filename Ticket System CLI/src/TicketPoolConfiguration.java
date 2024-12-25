@@ -1,3 +1,8 @@
+/**
+ * Author: Pavith Bambaravanage
+ * URL: https://github.com/Pavith19
+ */
+
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
